@@ -12,8 +12,13 @@ import type {
 /** データ取込バージョン。data/ 更新時にインクリメントすると再取込される */
 export const DATA_VERSION = 1;
 
+// GitHub Pages のサブパス配信に対応するため、必ず BASE_URL 起点で解決する
+function withBase(path: string): string {
+  return import.meta.env.BASE_URL + path.replace(/^\//, "");
+}
+
 async function fetchJson<T>(path: string): Promise<T> {
-  const res = await fetch(path);
+  const res = await fetch(withBase(path));
   if (!res.ok) {
     throw new Error(`データ取得失敗: ${path} (HTTP ${res.status})`);
   }

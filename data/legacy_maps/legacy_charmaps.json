@@ -1,0 +1,889 @@
+{
+ "sources/1ji/2015/A.pdf": {
+  "LLILBM+ZZ-PIStd-819|CHR|或": {
+   "char": "→",
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "manual",
+   "orig": "或",
+   "pi": true
+  },
+  "LLILAK+RyuminPr6-Regular|CHR|»": {
+   "char": "(",
+   "votes": 2,
+   "n_occ": 32,
+   "conf": "high",
+   "orig": "»",
+   "pi": false
+  },
+  "LLILAK+RyuminPr6-Regular|CHR|¿": {
+   "char": ")",
+   "votes": 2,
+   "n_occ": 32,
+   "conf": "high",
+   "orig": "¿",
+   "pi": false
+  },
+  "LLILBM+ZZ-PIStd-819|CHR|暗": {
+   "char": "=",
+   "votes": 2,
+   "n_occ": 15,
+   "conf": "manual",
+   "orig": "暗",
+   "pi": true
+  },
+  "LLILBM+ZZ-PIStd-819|CHR|袷": {
+   "char": "+",
+   "votes": 2,
+   "n_occ": 8,
+   "conf": "manual",
+   "orig": "袷",
+   "pi": true
+  },
+  "LLILBM+ZZ-PIStd-819|CHR|安": {
+   "char": "−",
+   "votes": 0,
+   "n_occ": 7,
+   "conf": "manual",
+   "orig": "安",
+   "pi": true
+  }
+ },
+ "sources/1ji/2015/B.pdf": {
+  "LMBKNG+ZZ-PIStd-819|CHR|或": {
+   "char": "→",
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "manual",
+   "orig": "或",
+   "pi": true
+  },
+  "LMBKME+RyuminPr6-Regular|CHR|‰": {
+   "char": "〔",
+   "votes": 0,
+   "n_occ": 4,
+   "conf": "manual",
+   "orig": "‰",
+   "pi": false
+  },
+  "LMBKME+RyuminPr6-Regular|CHR|ˇ": {
+   "char": "(",
+   "votes": 2,
+   "n_occ": 50,
+   "conf": "high",
+   "orig": "ˇ",
+   "pi": false
+  },
+  "LMBKNG+ZZ-PIStd-819|CHR|安": {
+   "char": "−",
+   "votes": 2,
+   "n_occ": 6,
+   "conf": "manual",
+   "orig": "安",
+   "pi": true
+  }
+ },
+ "sources/1ji/2015/C.pdf": {
+  "LMNNGA+ZZ-PIStd-819|CHR|或": {
+   "char": "→",
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "manual",
+   "orig": "或",
+   "pi": true
+  },
+  "LMNNEP+RyuminPr6-Regular|CHR|„": {
+   "char": "(",
+   "votes": 2,
+   "n_occ": 29,
+   "conf": "high",
+   "orig": "„",
+   "pi": false
+  },
+  "LMNNEP+RyuminPr6-Regular|CHR|…": {
+   "char": ")",
+   "votes": 2,
+   "n_occ": 29,
+   "conf": "high",
+   "orig": "…",
+   "pi": false
+  }
+ },
+ "sources/1ji/2015/D.pdf": {
+  "LNEDDK+ZZ-PIStd-819|CHR|或": {
+   "char": "→",
+   "votes": 0,
+   "n_occ": 13,
+   "conf": "manual",
+   "orig": "或",
+   "pi": true
+  },
+  "LNEDDK+ZZ-PIStd-819|CHR|安": {
+   "char": "−",
+   "votes": 1,
+   "n_occ": 8,
+   "conf": "manual",
+   "orig": "安",
+   "pi": true
+  },
+  "LNEDDK+ZZ-PIStd-819|CHR|暗": {
+   "char": "=",
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "manual",
+   "orig": "暗",
+   "pi": true
+  },
+  "LNEDCJ+RyuminPr6-Regular|CHR|“": {
+   "char": "（",
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "manual",
+   "orig": "“",
+   "pi": false
+  },
+  "LNEDCJ+RyuminPr6-Regular|CHR|”": {
+   "char": "“",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high",
+   "orig": "”",
+   "pi": false
+  },
+  "LNEDDK+ZZ-PIStd-819|CHR|按": {
+   "char": "÷",
+   "votes": 0,
+   "n_occ": 2,
+   "conf": "manual",
+   "orig": "按",
+   "pi": true
+  },
+  "LNEDDK+ZZ-PIStd-819|CHR|庵": {
+   "char": "×",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "manual",
+   "orig": "庵",
+   "pi": true
+  }
+ },
+ "sources/1ji/2015/E.pdf": {
+  "LNLCAL+ZZ-PIStd-819|CHR|或": {
+   "char": "→",
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "manual",
+   "orig": "或",
+   "pi": true
+  },
+  "LNLCAL+ZZ-PIStd-819|CHR|袷": {
+   "char": "+",
+   "votes": 2,
+   "n_occ": 4,
+   "conf": "manual",
+   "orig": "袷",
+   "pi": true
+  }
+ },
+ "sources/1ji/2015/F.pdf": {
+  "LOBLBB+ZZ-PIStd-819|CHR|或": {
+   "char": "→",
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "manual",
+   "orig": "或",
+   "pi": true
+  },
+  "LOBLBB+ZZ-PIStd-819|CHR|安": {
+   "char": "−",
+   "votes": 2,
+   "n_occ": 6,
+   "conf": "manual",
+   "orig": "安",
+   "pi": true
+  },
+  "LOBKPP+RyuminPr6-Regular|CHR|&": {
+   "char": "&",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high",
+   "orig": "&",
+   "pi": false
+  }
+ },
+ "sources/1ji/2015/G.pdf": {
+  "LOKBNG+ZZ-PIStd-819|CHR|或": {
+   "char": "→",
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "manual",
+   "orig": "或",
+   "pi": true
+  },
+  "LOKBNG+ZZ-PIStd-819|CHR|安": {
+   "char": "−",
+   "votes": 2,
+   "n_occ": 36,
+   "conf": "manual",
+   "orig": "安",
+   "pi": true
+  }
+ },
+ "sources/1ji/2016/A.pdf": {
+  "CHDGDK+ZZ-PIStd-819|CHR|或": {
+   "char": "→",
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "manual",
+   "orig": "或",
+   "pi": true
+  },
+  "CHDGDK+ZZ-PIStd-819|CHR|暗": {
+   "char": "=",
+   "votes": 1,
+   "n_occ": 8,
+   "conf": "manual",
+   "orig": "暗",
+   "pi": true
+  },
+  "CHDGDK+ZZ-PIStd-819|CHR|袷": {
+   "char": "+",
+   "votes": 1,
+   "n_occ": 9,
+   "conf": "manual",
+   "orig": "袷",
+   "pi": true
+  },
+  "CHDGDK+ZZ-PIStd-819|CHR|安": {
+   "char": "−",
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "manual",
+   "orig": "安",
+   "pi": true
+  }
+ },
+ "sources/1ji/2016/B.pdf": {
+  "CLFDCF+ZZ-PIStd-819|CHR|或": {
+   "char": "→",
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "manual",
+   "orig": "或",
+   "pi": true
+  },
+  "CLFCOE+RyuminPr6-Regular|CHR|―": {
+   "char": "―",
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "keep",
+   "orig": "―",
+   "pi": false
+  },
+  "CLFDCF+ZZ-PIStd-819|CHR|暗": {
+   "char": "=",
+   "votes": 0,
+   "n_occ": 5,
+   "conf": "manual",
+   "orig": "暗",
+   "pi": true
+  },
+  "CLFDCF+ZZ-PIStd-819|CHR|安": {
+   "char": "−",
+   "votes": 2,
+   "n_occ": 10,
+   "conf": "manual",
+   "orig": "安",
+   "pi": true
+  },
+  "CLFDCF+ZZ-PIStd-819|CHR|袷": {
+   "char": "+",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "manual",
+   "orig": "袷",
+   "pi": true
+  }
+ },
+ "sources/1ji/2016/C.pdf": {
+  "CLNOML+ZZ-PIStd-819|CHR|或": {
+   "char": "→",
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "manual",
+   "orig": "或",
+   "pi": true
+  },
+  "CLNOIK+RyuminPr6-Regular|CHR|“": {
+   "char": "(",
+   "votes": 1,
+   "n_occ": 31,
+   "conf": "low",
+   "orig": "“",
+   "pi": false
+  },
+  "CLNOIK+RyuminPr6-Regular|CHR|«": {
+   "char": ")",
+   "votes": 1,
+   "n_occ": 31,
+   "conf": "low",
+   "orig": "«",
+   "pi": false
+  },
+  "CLNOIK+RyuminPr6-Regular|CHR|―": {
+   "char": "一",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high",
+   "orig": "―",
+   "pi": false
+  }
+ },
+ "sources/1ji/2016/D.pdf": {
+  "CNLMCG+ZZ-PIStd-819|CHR|或": {
+   "char": "→",
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "manual",
+   "orig": "或",
+   "pi": true
+  },
+  "CNLMCG+ZZ-PIStd-819|CHR|庵": {
+   "char": "×",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "manual",
+   "orig": "庵",
+   "pi": true
+  },
+  "CNLMCG+ZZ-PIStd-819|CHR|袷": {
+   "char": "+",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "manual",
+   "orig": "袷",
+   "pi": true
+  },
+  "CNLLPF+RyuminPr6-Regular|CHR|―": {
+   "char": "一",
+   "votes": 2,
+   "n_occ": 6,
+   "conf": "high",
+   "orig": "―",
+   "pi": false
+  },
+  "CNLMCG+ZZ-PIStd-819|CHR|安": {
+   "char": "−",
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "manual",
+   "orig": "安",
+   "pi": true
+  }
+ },
+ "sources/1ji/2016/E.pdf": {
+  "COCDJK+ZZ-PIStd-819|CHR|或": {
+   "char": "→",
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "manual",
+   "orig": "或",
+   "pi": true
+  },
+  "COCDGJ+RyuminPr6-Regular|CHR|“": {
+   "char": "“",
+   "votes": 0,
+   "n_occ": 2,
+   "conf": "keep",
+   "orig": "“",
+   "pi": false
+  },
+  "COCDGJ+RyuminPr6-Regular|CHR|”": {
+   "char": "”",
+   "votes": 0,
+   "n_occ": 2,
+   "conf": "keep",
+   "orig": "”",
+   "pi": false
+  }
+ },
+ "sources/1ji/2016/F.pdf": {
+  "COHBMK+ZZ-PIStd-819|CHR|或": {
+   "char": "→",
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "manual",
+   "orig": "或",
+   "pi": true
+  },
+  "COHBJJ+RyuminPr6-Regular|CHR|ˇ": {
+   "char": "(",
+   "votes": 2,
+   "n_occ": 15,
+   "conf": "high",
+   "orig": "ˇ",
+   "pi": false
+  },
+  "COHBJJ+RyuminPr6-Regular|CHR|$": {
+   "char": "$",
+   "votes": 2,
+   "n_occ": 8,
+   "conf": "high",
+   "orig": "$",
+   "pi": false
+  },
+  "COHBJJ+RyuminPr6-Regular|CHR|”": {
+   "char": "“",
+   "votes": 2,
+   "n_occ": 8,
+   "conf": "high",
+   "orig": "”",
+   "pi": false
+  },
+  "COHBJJ+RyuminPr6-Regular|CHR|<": {
+   "char": "<",
+   "votes": 0,
+   "n_occ": 2,
+   "conf": "keep",
+   "orig": "<",
+   "pi": false
+  },
+  "COHBJJ+RyuminPr6-Regular|CHR|&": {
+   "char": "&",
+   "votes": 0,
+   "n_occ": 4,
+   "conf": "keep",
+   "orig": "&",
+   "pi": false
+  },
+  "COHBMK+ZZ-PIStd-819|CHR|袷": {
+   "char": "+",
+   "votes": 0,
+   "n_occ": 2,
+   "conf": "manual",
+   "orig": "袷",
+   "pi": true
+  },
+  "COHBJJ+RyuminPr6-Regular|CHR|>": {
+   "char": ">",
+   "votes": 0,
+   "n_occ": 2,
+   "conf": "keep",
+   "orig": ">",
+   "pi": false
+  },
+  "COHBMK+ZZ-PIStd-819|CHR|粟": {
+   "char": "",
+   "votes": 0,
+   "n_occ": 3,
+   "conf": "manual",
+   "orig": "粟",
+   "pi": true
+  }
+ },
+ "sources/1ji/2016/G.pdf": {
+  "COMBGB+ZZ-PIStd-819|CHR|或": {
+   "char": "→",
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "manual",
+   "orig": "或",
+   "pi": true
+  },
+  "COMBGB+ZZ-PIStd-819|CHR|安": {
+   "char": "−",
+   "votes": 2,
+   "n_occ": 5,
+   "conf": "manual",
+   "orig": "安",
+   "pi": true
+  }
+ },
+ "sources/1ji/2017/A.pdf": {
+  "CKBBHA+RyuminPr6-Regular|CHR|¢": {
+   "char": "〔",
+   "votes": 0,
+   "n_occ": 19,
+   "conf": "manual",
+   "orig": "¢",
+   "pi": false
+  },
+  "CKBBHA+RyuminPr6-Regular|CHR|£": {
+   "char": "〕",
+   "votes": 1,
+   "n_occ": 19,
+   "conf": "manual",
+   "orig": "£",
+   "pi": false
+  },
+  "CKBBNB+ZZ-PIStd-819|CHR|或": {
+   "char": "→",
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "manual",
+   "orig": "或",
+   "pi": true
+  },
+  "CKBBNB+ZZ-PIStd-819|CHR|安": {
+   "char": "−",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "manual",
+   "orig": "安",
+   "pi": true
+  }
+ },
+ "sources/1ji/2017/B.pdf": {
+  "COEHPP+ZZ-PIStd-819|CHR|或": {
+   "char": "→",
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "manual",
+   "orig": "或",
+   "pi": true
+  },
+  "COEHLP+RyuminPr6-Regular|CHR|æ": {
+   "char": "〔",
+   "votes": 0,
+   "n_occ": 6,
+   "conf": "manual",
+   "orig": "æ",
+   "pi": false
+  },
+  "COEHLP+RyuminPr6-Regular|CHR|$": {
+   "char": "(",
+   "votes": 2,
+   "n_occ": 9,
+   "conf": "high",
+   "orig": "$",
+   "pi": false
+  },
+  "COEHLP+RyuminPr6-Regular|CHR|’": {
+   "char": "）",
+   "votes": 0,
+   "n_occ": 12,
+   "conf": "manual",
+   "orig": "’",
+   "pi": false
+  },
+  "COEHLP+RyuminPr6-Regular|CHR|―": {
+   "char": "―",
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "keep",
+   "orig": "―",
+   "pi": false
+  },
+  "COEHPP+ZZ-PIStd-819|CHR|庵": {
+   "char": "×",
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "manual",
+   "orig": "庵",
+   "pi": true
+  },
+  "COEHPP+ZZ-PIStd-819|CHR|暗": {
+   "char": "=",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "manual",
+   "orig": "暗",
+   "pi": true
+  },
+  "COEHPP+ZZ-PIStd-819|CHR|安": {
+   "char": "−",
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "manual",
+   "orig": "安",
+   "pi": true
+  }
+ },
+ "sources/1ji/2017/C.pdf": {
+  "CPCOHH+ZZ-PIStd-819|CHR|或": {
+   "char": "→",
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "manual",
+   "orig": "或",
+   "pi": true
+  },
+  "CPCODH+RyuminPr6-Regular|CHR|―": {
+   "char": "一",
+   "votes": 2,
+   "n_occ": 2,
+   "conf": "high",
+   "orig": "―",
+   "pi": false
+  }
+ },
+ "sources/1ji/2017/D.pdf": {
+  "DABJCD+RyuminPr6-Regular|CHR|£": {
+   "char": "〔",
+   "votes": 0,
+   "n_occ": 15,
+   "conf": "manual",
+   "orig": "£",
+   "pi": false
+  },
+  "DABJCD+RyuminPr6-Regular|CHR|⁄": {
+   "char": "〕",
+   "votes": 1,
+   "n_occ": 15,
+   "conf": "low",
+   "orig": "⁄",
+   "pi": false
+  },
+  "DABJGF+ZZ-PIStd-819|CHR|或": {
+   "char": "→",
+   "votes": 2,
+   "n_occ": 11,
+   "conf": "manual",
+   "orig": "或",
+   "pi": true
+  },
+  "DABJGF+ZZ-PIStd-819|CHR|安": {
+   "char": "−",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "manual",
+   "orig": "安",
+   "pi": true
+  },
+  "DABJGF+ZZ-PIStd-819|CHR|袷": {
+   "char": "+",
+   "votes": 1,
+   "n_occ": 2,
+   "conf": "manual",
+   "orig": "袷",
+   "pi": true
+  },
+  "DABJGF+ZZ-PIStd-819|CHR|庵": {
+   "char": "×",
+   "votes": 1,
+   "n_occ": 2,
+   "conf": "manual",
+   "orig": "庵",
+   "pi": true
+  }
+ },
+ "sources/1ji/2017/E.pdf": {
+  "DBAGMP+RyuminPr6-Regular|CHR|¢": {
+   "char": "〔",
+   "votes": 0,
+   "n_occ": 6,
+   "conf": "manual",
+   "orig": "¢",
+   "pi": false
+  },
+  "DBAGMP+RyuminPr6-Regular|CHR|£": {
+   "char": "〕",
+   "votes": 1,
+   "n_occ": 6,
+   "conf": "manual",
+   "orig": "£",
+   "pi": false
+  },
+  "DBAHCA+ZZ-PIStd-819|CHR|或": {
+   "char": "→",
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "manual",
+   "orig": "或",
+   "pi": true
+  },
+  "DBAHCA+ZZ-PIStd-819|CHR|安": {
+   "char": "−",
+   "votes": 1,
+   "n_occ": 3,
+   "conf": "manual",
+   "orig": "安",
+   "pi": true
+  }
+ },
+ "sources/1ji/2017/F.pdf": {
+  "DBNPCO+RyuminPr6-Regular|CHR|¢": {
+   "char": "〔",
+   "votes": 0,
+   "n_occ": 10,
+   "conf": "manual",
+   "orig": "¢",
+   "pi": false
+  },
+  "DBNPCO+RyuminPr6-Regular|CHR|£": {
+   "char": "〕",
+   "votes": 1,
+   "n_occ": 10,
+   "conf": "manual",
+   "orig": "£",
+   "pi": false
+  },
+  "DBNPGP+ZZ-PIStd-819|CHR|或": {
+   "char": "→",
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "manual",
+   "orig": "或",
+   "pi": true
+  },
+  "DBNPGP+ZZ-PIStd-819|CHR|袷": {
+   "char": "+",
+   "votes": 2,
+   "n_occ": 6,
+   "conf": "manual",
+   "orig": "袷",
+   "pi": true
+  },
+  "DBNPGP+ZZ-PIStd-819|CHR|暗": {
+   "char": "=",
+   "votes": 2,
+   "n_occ": 8,
+   "conf": "manual",
+   "orig": "暗",
+   "pi": true
+  }
+ },
+ "sources/1ji/2017/G.pdf": {
+  "DCJBEJ+ZZ-PIStd-819|CHR|或": {
+   "char": "→",
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "manual",
+   "orig": "或",
+   "pi": true
+  },
+  "DCJBEJ+ZZ-PIStd-819|CHR|安": {
+   "char": "−",
+   "votes": 2,
+   "n_occ": 19,
+   "conf": "manual",
+   "orig": "安",
+   "pi": true
+  },
+  "DCJBEJ+ZZ-PIStd-819|CHR|粟": {
+   "char": "",
+   "votes": 0,
+   "n_occ": 4,
+   "conf": "manual",
+   "orig": "粟",
+   "pi": true
+  }
+ },
+ "sources/2ji/2015/A.pdf": {
+  "PHDIIA+RyuminPr6-Regular|CHR|<": {
+   "char": "(",
+   "votes": 2,
+   "n_occ": 10,
+   "conf": "high",
+   "orig": "<",
+   "pi": false
+  }
+ },
+ "sources/2ji/2015/B.pdf": {
+  "PIGGPE+RyuminPr6-Regular|CHR|<": {
+   "char": "(",
+   "votes": 2,
+   "n_occ": 17,
+   "conf": "high",
+   "orig": "<",
+   "pi": false
+  },
+  "PIGGPE+RyuminPr6-Regular|CHR|“": {
+   "char": "“",
+   "votes": 1,
+   "n_occ": 2,
+   "conf": "low",
+   "orig": "“",
+   "pi": false
+  },
+  "PIGGPE+RyuminPr6-Regular|CHR|”": {
+   "char": "“",
+   "votes": 2,
+   "n_occ": 2,
+   "conf": "high",
+   "orig": "”",
+   "pi": false
+  }
+ },
+ "sources/2ji/2015/C.pdf": {
+  "PJJOOM+RyuminPr6-Regular|CHR|<": {
+   "char": ")",
+   "votes": 1,
+   "n_occ": 9,
+   "conf": "low",
+   "orig": "<",
+   "pi": false
+  }
+ },
+ "sources/2ji/2015/D.pdf": {
+  "PKKNMB+RyuminPr6-Regular|CHR|<": {
+   "char": ")",
+   "votes": 2,
+   "n_occ": 29,
+   "conf": "high",
+   "orig": "<",
+   "pi": false
+  },
+  "PKKOFB+ZZ-PIStd-819|CHR|庵": {
+   "char": "×",
+   "votes": 2,
+   "n_occ": 19,
+   "conf": "manual",
+   "orig": "庵",
+   "pi": true
+  }
+ },
+ "sources/2ji/2016/A.pdf": {},
+ "sources/2ji/2016/B.pdf": {
+  "PFGIJI+RyuminPr6-Regular|CHR|’": {
+   "char": "（",
+   "votes": 0,
+   "n_occ": 2,
+   "conf": "manual",
+   "orig": "’",
+   "pi": false
+  }
+ },
+ "sources/2ji/2016/C.pdf": {
+  "PHDMCA+RyuminPr6-Regular|CHR|£": {
+   "char": "】",
+   "votes": 0,
+   "n_occ": 2,
+   "conf": "manual",
+   "orig": "£",
+   "pi": false
+  }
+ },
+ "sources/2ji/2016/D.pdf": {
+  "PIICMN+ZZ-PIStd-819|CHR|安": {
+   "char": "−",
+   "votes": 1,
+   "n_occ": 10,
+   "conf": "manual",
+   "orig": "安",
+   "pi": true
+  }
+ },
+ "sources/2ji/2017/A.pdf": {},
+ "sources/2ji/2017/B.pdf": {},
+ "sources/2ji/2017/C.pdf": {
+  "JBOOPK+RyuminPr6-Regular|CHR|·": {
+   "char": "】",
+   "votes": 0,
+   "n_occ": 3,
+   "conf": "manual",
+   "orig": "·",
+   "pi": false
+  }
+ },
+ "sources/2ji/2017/D.pdf": {
+  "JCHFFE+ZZ-PIStd-819|CHR|安": {
+   "char": "−",
+   "votes": 0,
+   "n_occ": 4,
+   "conf": "manual",
+   "orig": "安",
+   "pi": true
+  }
+ }
+}

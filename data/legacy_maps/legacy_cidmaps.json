@@ -1,0 +1,3556 @@
+{
+ "sources/1ji/2015/D.pdf": {
+  "LNEDDJ+RyuminPr6-Regular.|(cid:5)": {
+   "char": "3",
+   "votes": 2,
+   "n_occ": 26,
+   "conf": "high"
+  },
+  "LNEDDJ+RyuminPr6-Regular.|(cid:6)": {
+   "char": "7",
+   "votes": 2,
+   "n_occ": 7,
+   "conf": "high"
+  },
+  "LNEDDJ+RyuminPr6-Regular.|(cid:7)": {
+   "char": "5",
+   "votes": 2,
+   "n_occ": 10,
+   "conf": "high"
+  },
+  "LNEDDJ+RyuminPr6-Regular.|(cid:8)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "none"
+  },
+  "LNEDDJ+RyuminPr6-Regular.|(cid:9)": {
+   "char": "0",
+   "votes": 1,
+   "n_occ": 4,
+   "conf": "low"
+  },
+  "LNEDDJ+RyuminPr6-Regular.|(cid:12)": {
+   "char": "1",
+   "votes": 2,
+   "n_occ": 31,
+   "conf": "high"
+  },
+  "LNEEEE+FutoGoB101Pr6-Bold|(cid:6)": {
+   "char": "(",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LNEEHE+FutoGoB101Pr6-Bold.|(cid:2)": {
+   "char": "1",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LNEEHE+FutoGoB101Pr6-Bold.|(cid:3)": {
+   "char": "2",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LNEEHE+FutoGoB101Pr6-Bold.|(cid:4)": {
+   "char": "3",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LNEEHE+FutoGoB101Pr6-Bold.|(cid:5)": {
+   "char": "4",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LNEEHE+FutoGoB101Pr6-Bold.|(cid:6)": {
+   "char": "5",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LNEEHE+FutoGoB101Pr6-Bold.|(cid:7)": {
+   "char": "6",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LNEEHE+FutoGoB101Pr6-Bold.|(cid:8)": {
+   "char": "7",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LNEEHE+FutoGoB101Pr6-Bold.|(cid:9)": {
+   "char": "8",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LNEEHE+FutoGoB101Pr6-Bold.|(cid:10)": {
+   "char": "9",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LNEDDJ+RyuminPr6-Regular.|(cid:13)": {
+   "char": "2",
+   "votes": 2,
+   "n_occ": 26,
+   "conf": "high"
+  },
+  "LNEDDJ+RyuminPr6-Regular.|(cid:14)": {
+   "char": "4",
+   "votes": 2,
+   "n_occ": 13,
+   "conf": "high"
+  },
+  "LNEDDJ+RyuminPr6-Regular.|(cid:15)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "none"
+  },
+  "LNEDDJ+RyuminPr6-Regular.|(cid:16)": {
+   "char": "6",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  }
+ },
+ "sources/1ji/2015/C.pdf": {
+  "LMNNFP+RyuminPr6-Regular.|(cid:5)": {
+   "char": "3",
+   "votes": 2,
+   "n_occ": 5,
+   "conf": "high"
+  },
+  "LMNNFP+RyuminPr6-Regular.|(cid:6)": {
+   "char": "7",
+   "votes": 1,
+   "n_occ": 2,
+   "conf": "low"
+  },
+  "LMNNFP+RyuminPr6-Regular.|(cid:7)": {
+   "char": "5",
+   "votes": 2,
+   "n_occ": 6,
+   "conf": "high"
+  },
+  "LMNNFP+RyuminPr6-Regular.|(cid:8)": {
+   "char": "9",
+   "votes": 1,
+   "n_occ": 2,
+   "conf": "low"
+  },
+  "LMNNFP+RyuminPr6-Regular.|(cid:9)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 2,
+   "conf": "none"
+  },
+  "LMNNFP+RyuminPr6-Regular.|(cid:12)": {
+   "char": "1",
+   "votes": 2,
+   "n_occ": 13,
+   "conf": "high"
+  },
+  "LMNNNP+FutoGoB101Pr6-Bold.|(cid:2)": {
+   "char": "1",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LMNNNP+FutoGoB101Pr6-Bold.|(cid:3)": {
+   "char": "2",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LMNNNP+FutoGoB101Pr6-Bold.|(cid:4)": {
+   "char": "3",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LMNNNP+FutoGoB101Pr6-Bold.|(cid:5)": {
+   "char": "4",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LMNNNP+FutoGoB101Pr6-Bold.|(cid:6)": {
+   "char": "5",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LMNNNP+FutoGoB101Pr6-Bold.|(cid:7)": {
+   "char": "6",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LMNNNP+FutoGoB101Pr6-Bold.|(cid:8)": {
+   "char": "7",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LMNNNP+FutoGoB101Pr6-Bold.|(cid:9)": {
+   "char": "8",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LMNNFP+RyuminPr6-Regular.|(cid:15)": {
+   "char": "2",
+   "votes": 2,
+   "n_occ": 8,
+   "conf": "high"
+  },
+  "LMNNNP+FutoGoB101Pr6-Bold.|(cid:10)": {
+   "char": "9",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LMNNFP+RyuminPr6-Regular.|(cid:16)": {
+   "char": "6",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LMNNFP+RyuminPr6-Regular.|(cid:17)": {
+   "char": "8",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LMNNFP+RyuminPr6-Regular.|(cid:18)": {
+   "char": "4",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  }
+ },
+ "sources/1ji/2015/B.pdf": {
+  "LMBKMF+RyuminPr6-Regular.|(cid:5)": {
+   "char": "3",
+   "votes": 2,
+   "n_occ": 8,
+   "conf": "high"
+  },
+  "LMBKMF+RyuminPr6-Regular.|(cid:6)": {
+   "char": "7",
+   "votes": 1,
+   "n_occ": 2,
+   "conf": "low"
+  },
+  "LMBKMF+RyuminPr6-Regular.|(cid:7)": {
+   "char": "5",
+   "votes": 1,
+   "n_occ": 2,
+   "conf": "low"
+  },
+  "LMBKMF+RyuminPr6-Regular.|(cid:8)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "none"
+  },
+  "LMBKMF+RyuminPr6-Regular.|(cid:9)": {
+   "char": "0",
+   "votes": 2,
+   "n_occ": 4,
+   "conf": "high"
+  },
+  "LMBKMF+RyuminPr6-Regular.|(cid:12)": {
+   "char": "1",
+   "votes": 1,
+   "n_occ": 16,
+   "conf": "low"
+  },
+  "LMBLFF+FutoGoB101Pr6-Bold.|(cid:2)": {
+   "char": "1",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LMBKME+RyuminPr6-Regular|(cid:190)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 4,
+   "conf": "none"
+  },
+  "LMBKME+RyuminPr6-Regular|(cid:209)": {
+   "char": ")",
+   "votes": 2,
+   "n_occ": 50,
+   "conf": "high"
+  },
+  "LMBLFF+FutoGoB101Pr6-Bold.|(cid:3)": {
+   "char": "2",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LMBLFF+FutoGoB101Pr6-Bold.|(cid:4)": {
+   "char": "3",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LMBLFF+FutoGoB101Pr6-Bold.|(cid:5)": {
+   "char": "4",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LMBLFF+FutoGoB101Pr6-Bold.|(cid:6)": {
+   "char": "5",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LMBLFF+FutoGoB101Pr6-Bold.|(cid:7)": {
+   "char": "6",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LMBLFF+FutoGoB101Pr6-Bold.|(cid:8)": {
+   "char": "7",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LMBKMF+RyuminPr6-Regular.|(cid:13)": {
+   "char": "8",
+   "votes": 2,
+   "n_occ": 3,
+   "conf": "high"
+  },
+  "LMBLFF+FutoGoB101Pr6-Bold.|(cid:9)": {
+   "char": "8",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LMBKMF+RyuminPr6-Regular.|(cid:14)": {
+   "char": "2",
+   "votes": 1,
+   "n_occ": 15,
+   "conf": "low"
+  },
+  "LMBLFF+FutoGoB101Pr6-Bold.|(cid:10)": {
+   "char": "9",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LMBKMF+RyuminPr6-Regular.|(cid:15)": {
+   "char": "4",
+   "votes": 2,
+   "n_occ": 5,
+   "conf": "high"
+  },
+  "LMBKMF+RyuminPr6-Regular.|(cid:16)": {
+   "char": "6",
+   "votes": 2,
+   "n_occ": 2,
+   "conf": "high"
+  }
+ },
+ "sources/1ji/2015/A.pdf": {
+  "LLILAL+RyuminPr6-Regular.|(cid:5)": {
+   "char": "3",
+   "votes": 2,
+   "n_occ": 4,
+   "conf": "high"
+  },
+  "LLILAL+RyuminPr6-Regular.|(cid:6)": {
+   "char": "7",
+   "votes": 2,
+   "n_occ": 3,
+   "conf": "high"
+  },
+  "LLILAL+RyuminPr6-Regular.|(cid:7)": {
+   "char": "5",
+   "votes": 2,
+   "n_occ": 4,
+   "conf": "high"
+  },
+  "LLILAL+RyuminPr6-Regular.|(cid:8)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 3,
+   "conf": "none"
+  },
+  "LLILAL+RyuminPr6-Regular.|(cid:9)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 2,
+   "conf": "none"
+  },
+  "LLILAL+RyuminPr6-Regular.|(cid:12)": {
+   "char": "1",
+   "votes": 2,
+   "n_occ": 15,
+   "conf": "high"
+  },
+  "LLILKK+FutoGoB101Pr6-Bold.|(cid:2)": {
+   "char": "1",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LLILAL+RyuminPr6-Regular.|(cid:13)": {
+   "char": "8",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LLILAL+RyuminPr6-Regular.|(cid:14)": {
+   "char": "2",
+   "votes": 2,
+   "n_occ": 18,
+   "conf": "high"
+  },
+  "LLILAL+RyuminPr6-Regular.|(cid:15)": {
+   "char": "4",
+   "votes": 2,
+   "n_occ": 2,
+   "conf": "high"
+  },
+  "LLILKK+FutoGoB101Pr6-Bold.|(cid:3)": {
+   "char": "2",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LLILAK+RyuminPr6-Regular|(cid:253)": {
+   "char": "[",
+   "votes": 2,
+   "n_occ": 3,
+   "conf": "high"
+  },
+  "LLILAK+RyuminPr6-Regular|(cid:254)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 3,
+   "conf": "none"
+  },
+  "LLILKK+FutoGoB101Pr6-Bold.|(cid:4)": {
+   "char": "3",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LLILKK+FutoGoB101Pr6-Bold.|(cid:5)": {
+   "char": "4",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LLILKK+FutoGoB101Pr6-Bold.|(cid:6)": {
+   "char": "5",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LLILKK+FutoGoB101Pr6-Bold.|(cid:7)": {
+   "char": "6",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LLILKK+FutoGoB101Pr6-Bold.|(cid:8)": {
+   "char": "7",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LLILKK+FutoGoB101Pr6-Bold.|(cid:9)": {
+   "char": "8",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LLILKK+FutoGoB101Pr6-Bold.|(cid:10)": {
+   "char": "9",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LLIMIG+RyuminPr6-Regular-90msp-RKSJ-H|(cid:9509)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 2,
+   "conf": "none"
+  },
+  "LLIMIG+RyuminPr6-Regular-90msp-RKSJ-H|(cid:9510)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 2,
+   "conf": "none"
+  },
+  "LLIMIG+RyuminPr6-Regular-90msp-RKSJ-H|(cid:9497)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "none"
+  },
+  "LLIMIG+RyuminPr6-Regular-90msp-RKSJ-H|(cid:9477)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "none"
+  },
+  "LLIMIG+RyuminPr6-Regular-90msp-RKSJ-H|(cid:9478)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "none"
+  },
+  "LLIMIG+RyuminPr6-Regular-90msp-RKSJ-H|(cid:9511)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "none"
+  },
+  "LLIMIG+RyuminPr6-Regular-90msp-RKSJ-H|(cid:9512)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "none"
+  },
+  "LLIMIG+RyuminPr6-Regular-90msp-RKSJ-H|(cid:9523)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "none"
+  },
+  "LLIMIG+RyuminPr6-Regular-90msp-RKSJ-H|(cid:9525)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "none"
+  }
+ },
+ "sources/1ji/2015/E.pdf": {
+  "LNLBPL+RyuminPr6-Regular.|(cid:5)": {
+   "char": "3",
+   "votes": 2,
+   "n_occ": 10,
+   "conf": "high"
+  },
+  "LNLBPL+RyuminPr6-Regular.|(cid:6)": {
+   "char": "7",
+   "votes": 1,
+   "n_occ": 2,
+   "conf": "low"
+  },
+  "LNLBPL+RyuminPr6-Regular.|(cid:7)": {
+   "char": "5",
+   "votes": 2,
+   "n_occ": 7,
+   "conf": "high"
+  },
+  "LNLBPL+RyuminPr6-Regular.|(cid:8)": {
+   "char": "9",
+   "votes": 1,
+   "n_occ": 2,
+   "conf": "low"
+  },
+  "LNLBPL+RyuminPr6-Regular.|(cid:9)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 2,
+   "conf": "none"
+  },
+  "LNLBPL+RyuminPr6-Regular.|(cid:12)": {
+   "char": "1",
+   "votes": 2,
+   "n_occ": 13,
+   "conf": "high"
+  },
+  "LNLBPL+RyuminPr6-Regular.|(cid:13)": {
+   "char": "2",
+   "votes": 2,
+   "n_occ": 17,
+   "conf": "high"
+  },
+  "LNLCHK+FutoGoB101Pr6-Bold.|(cid:2)": {
+   "char": "1",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LNLCHK+FutoGoB101Pr6-Bold.|(cid:3)": {
+   "char": "2",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LNLBPK+RyuminPr6-Regular|(cid:219)": {
+   "char": "(",
+   "votes": 2,
+   "n_occ": 26,
+   "conf": "high"
+  },
+  "LNLBPK+RyuminPr6-Regular|(cid:222)": {
+   "char": ")",
+   "votes": 2,
+   "n_occ": 26,
+   "conf": "high"
+  },
+  "LNLCHK+FutoGoB101Pr6-Bold.|(cid:4)": {
+   "char": "3",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LNLCHK+FutoGoB101Pr6-Bold.|(cid:5)": {
+   "char": "4",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LNLBPL+RyuminPr6-Regular.|(cid:14)": {
+   "char": "6",
+   "votes": 2,
+   "n_occ": 4,
+   "conf": "high"
+  },
+  "LNLCHK+FutoGoB101Pr6-Bold.|(cid:6)": {
+   "char": "5",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LNLCHK+FutoGoB101Pr6-Bold.|(cid:7)": {
+   "char": "6",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LNLCHK+FutoGoB101Pr6-Bold.|(cid:8)": {
+   "char": "7",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LNLCHK+FutoGoB101Pr6-Bold.|(cid:9)": {
+   "char": "8",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LNLCHK+FutoGoB101Pr6-Bold.|(cid:10)": {
+   "char": "9",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LNLBPL+RyuminPr6-Regular.|(cid:20)": {
+   "char": "8",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  }
+ },
+ "sources/1ji/2015/F.pdf": {
+  "LOBLBA+RyuminPr6-Regular.|(cid:5)": {
+   "char": "3",
+   "votes": 1,
+   "n_occ": 6,
+   "conf": "low"
+  },
+  "LOBLBA+RyuminPr6-Regular.|(cid:6)": {
+   "char": "7",
+   "votes": 1,
+   "n_occ": 2,
+   "conf": "low"
+  },
+  "LOBLBA+RyuminPr6-Regular.|(cid:7)": {
+   "char": "5",
+   "votes": 2,
+   "n_occ": 3,
+   "conf": "high"
+  },
+  "LOBLBA+RyuminPr6-Regular.|(cid:8)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "none"
+  },
+  "LOBLBA+RyuminPr6-Regular.|(cid:9)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 3,
+   "conf": "none"
+  },
+  "LOBLBA+RyuminPr6-Regular.|(cid:12)": {
+   "char": "1",
+   "votes": 2,
+   "n_occ": 5,
+   "conf": "high"
+  },
+  "LOBLBA+RyuminPr6-Regular.|(cid:13)": {
+   "char": "2",
+   "votes": 2,
+   "n_occ": 6,
+   "conf": "mid"
+  },
+  "LOBLJA+FutoGoB101Pr6-Bold.|(cid:2)": {
+   "char": "1",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LOBLJA+FutoGoB101Pr6-Bold.|(cid:3)": {
+   "char": "2",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LOBLJA+FutoGoB101Pr6-Bold.|(cid:4)": {
+   "char": "3",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LOBLJA+FutoGoB101Pr6-Bold.|(cid:5)": {
+   "char": "4",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LOBLJA+FutoGoB101Pr6-Bold.|(cid:6)": {
+   "char": "5",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LOBLJA+FutoGoB101Pr6-Bold.|(cid:7)": {
+   "char": "6",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LOBLJA+FutoGoB101Pr6-Bold.|(cid:8)": {
+   "char": "7",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LOBLBA+RyuminPr6-Regular.|(cid:14)": {
+   "char": "4",
+   "votes": 2,
+   "n_occ": 7,
+   "conf": "high"
+  },
+  "LOBLJA+FutoGoB101Pr6-Bold.|(cid:9)": {
+   "char": "8",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LOBLJA+FutoGoB101Pr6-Bold.|(cid:10)": {
+   "char": "9",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LOBLBA+RyuminPr6-Regular.|(cid:15)": {
+   "char": "6",
+   "votes": 2,
+   "n_occ": 2,
+   "conf": "high"
+  }
+ },
+ "sources/1ji/2016/C.pdf": {
+  "CLNOIK+RyuminPr6-Regular|(cid:150)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 2,
+   "conf": "none"
+  },
+  "CLNOIK+RyuminPr6-Regular|(cid:151)": {
+   "char": "〕",
+   "votes": 1,
+   "n_occ": 2,
+   "conf": "low"
+  },
+  "CLNOIL+RyuminPr6-Regular.|(cid:8)": {
+   "char": "3",
+   "votes": 2,
+   "n_occ": 12,
+   "conf": "high"
+  },
+  "CLNOIL+RyuminPr6-Regular.|(cid:9)": {
+   "char": "7",
+   "votes": 1,
+   "n_occ": 2,
+   "conf": "low"
+  },
+  "CLNOIL+RyuminPr6-Regular.|(cid:10)": {
+   "char": "5",
+   "votes": 2,
+   "n_occ": 8,
+   "conf": "high"
+  },
+  "CLNOIL+RyuminPr6-Regular.|(cid:11)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "none"
+  },
+  "CLNOIL+RyuminPr6-Regular.|(cid:12)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 2,
+   "conf": "none"
+  },
+  "CLNOIL+RyuminPr6-Regular.|(cid:13)": {
+   "char": "1",
+   "votes": 2,
+   "n_occ": 25,
+   "conf": "high"
+  },
+  "CLNOPL+FutoGoB101Pr6-Bold.|(cid:2)": {
+   "char": "1",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "CLNOPL+FutoGoB101Pr6-Bold.|(cid:3)": {
+   "char": "2",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "CLNOPL+FutoGoB101Pr6-Bold.|(cid:4)": {
+   "char": "3",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "CLNOPL+FutoGoB101Pr6-Bold.|(cid:5)": {
+   "char": "4",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "CLNOIL+RyuminPr6-Regular.|(cid:14)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 8,
+   "conf": "none"
+  },
+  "CLNOPL+FutoGoB101Pr6-Bold.|(cid:6)": {
+   "char": "5",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "CLNOPL+FutoGoB101Pr6-Bold.|(cid:7)": {
+   "char": "6",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "CLNOPL+FutoGoB101Pr6-Bold.|(cid:8)": {
+   "char": "7",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "CLNOIL+RyuminPr6-Regular.|(cid:18)": {
+   "char": "4",
+   "votes": 2,
+   "n_occ": 5,
+   "conf": "high"
+  },
+  "CLNOPL+FutoGoB101Pr6-Bold.|(cid:9)": {
+   "char": "8",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "CLNOPL+FutoGoB101Pr6-Bold.|(cid:10)": {
+   "char": "9",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "CLNOIL+RyuminPr6-Regular.|(cid:29)": {
+   "char": "8",
+   "votes": 2,
+   "n_occ": 3,
+   "conf": "high"
+  },
+  "CLNOIL+RyuminPr6-Regular.|(cid:30)": {
+   "char": "6",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  }
+ },
+ "sources/1ji/2015/G.pdf": {
+  "LOKBMF+RyuminPr6-Regular.|(cid:5)": {
+   "char": "3",
+   "votes": 2,
+   "n_occ": 22,
+   "conf": "high"
+  },
+  "LOKBMF+RyuminPr6-Regular.|(cid:6)": {
+   "char": "7",
+   "votes": 2,
+   "n_occ": 5,
+   "conf": "high"
+  },
+  "LOKBMF+RyuminPr6-Regular.|(cid:7)": {
+   "char": "5",
+   "votes": 2,
+   "n_occ": 16,
+   "conf": "high"
+  },
+  "LOKBMF+RyuminPr6-Regular.|(cid:8)": {
+   "char": "9",
+   "votes": 2,
+   "n_occ": 5,
+   "conf": "high"
+  },
+  "LOKBMF+RyuminPr6-Regular.|(cid:9)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 2,
+   "conf": "none"
+  },
+  "LOKBMF+RyuminPr6-Regular.|(cid:12)": {
+   "char": "1",
+   "votes": 1,
+   "n_occ": 38,
+   "conf": "low"
+  },
+  "LOKBMF+RyuminPr6-Regular.|(cid:13)": {
+   "char": "2",
+   "votes": 1,
+   "n_occ": 18,
+   "conf": "low"
+  },
+  "LOKCGE+FutoGoB101Pr6-Bold.|(cid:2)": {
+   "char": "1",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LOKBME+RyuminPr6-Regular|(cid:204)": {
+   "char": "(",
+   "votes": 2,
+   "n_occ": 73,
+   "conf": "high"
+  },
+  "LOKBME+RyuminPr6-Regular|(cid:209)": {
+   "char": ")",
+   "votes": 2,
+   "n_occ": 73,
+   "conf": "high"
+  },
+  "LOKBMF+RyuminPr6-Regular.|(cid:14)": {
+   "char": "4",
+   "votes": 2,
+   "n_occ": 9,
+   "conf": "high"
+  },
+  "LOKBMF+RyuminPr6-Regular.|(cid:15)": {
+   "char": "8",
+   "votes": 2,
+   "n_occ": 3,
+   "conf": "high"
+  },
+  "LOKCGE+FutoGoB101Pr6-Bold.|(cid:3)": {
+   "char": "2",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LOKBMF+RyuminPr6-Regular.|(cid:16)": {
+   "char": "6",
+   "votes": 2,
+   "n_occ": 5,
+   "conf": "high"
+  },
+  "LOKCGE+FutoGoB101Pr6-Bold.|(cid:4)": {
+   "char": "3",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LOKCGE+FutoGoB101Pr6-Bold.|(cid:5)": {
+   "char": "4",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LOKCGE+FutoGoB101Pr6-Bold.|(cid:6)": {
+   "char": "5",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LOKCGE+FutoGoB101Pr6-Bold.|(cid:7)": {
+   "char": "6",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LOKCGE+FutoGoB101Pr6-Bold.|(cid:8)": {
+   "char": "7",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LOKCGE+FutoGoB101Pr6-Bold.|(cid:9)": {
+   "char": "8",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "LOKCGE+FutoGoB101Pr6-Bold.|(cid:10)": {
+   "char": "9",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  }
+ },
+ "sources/1ji/2016/B.pdf": {
+  "CLFCOE+RyuminPr6-Regular|(cid:150)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 6,
+   "conf": "none"
+  },
+  "CLFCOE+RyuminPr6-Regular|(cid:151)": {
+   "char": "〕",
+   "votes": 1,
+   "n_occ": 6,
+   "conf": "low"
+  },
+  "CLFCPF+RyuminPr6-Regular.|(cid:8)": {
+   "char": "3",
+   "votes": 2,
+   "n_occ": 10,
+   "conf": "high"
+  },
+  "CLFCPF+RyuminPr6-Regular.|(cid:9)": {
+   "char": "7",
+   "votes": 2,
+   "n_occ": 3,
+   "conf": "high"
+  },
+  "CLFCPF+RyuminPr6-Regular.|(cid:10)": {
+   "char": "5",
+   "votes": 2,
+   "n_occ": 5,
+   "conf": "high"
+  },
+  "CLFCPF+RyuminPr6-Regular.|(cid:11)": {
+   "char": "9",
+   "votes": 1,
+   "n_occ": 2,
+   "conf": "low"
+  },
+  "CLFCPF+RyuminPr6-Regular.|(cid:12)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 2,
+   "conf": "none"
+  },
+  "CLFCPF+RyuminPr6-Regular.|(cid:13)": {
+   "char": "1",
+   "votes": 2,
+   "n_occ": 21,
+   "conf": "high"
+  },
+  "CLFDFF+FutoGoB101Pr6-Bold.|(cid:2)": {
+   "char": "1",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "CLFCPF+RyuminPr6-Regular.|(cid:14)": {
+   "char": "6",
+   "votes": 1,
+   "n_occ": 4,
+   "conf": "low"
+  },
+  "CLFDFF+FutoGoB101Pr6-Bold.|(cid:3)": {
+   "char": "2",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "CLFDFF+FutoGoB101Pr6-Bold.|(cid:4)": {
+   "char": "3",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "CLFDFF+FutoGoB101Pr6-Bold.|(cid:5)": {
+   "char": "4",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "CLFDFF+FutoGoB101Pr6-Bold.|(cid:6)": {
+   "char": "5",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "CLFCPF+RyuminPr6-Regular.|(cid:15)": {
+   "char": "2",
+   "votes": 2,
+   "n_occ": 18,
+   "conf": "high"
+  },
+  "CLFDFF+FutoGoB101Pr6-Bold.|(cid:7)": {
+   "char": "6",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "CLFDFF+FutoGoB101Pr6-Bold.|(cid:8)": {
+   "char": "7",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "CLFDFF+FutoGoB101Pr6-Bold.|(cid:9)": {
+   "char": "8",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "CLFDFF+FutoGoB101Pr6-Bold.|(cid:10)": {
+   "char": "9",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "CLFCPF+RyuminPr6-Regular.|(cid:16)": {
+   "char": "4",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "CLFCPF+RyuminPr6-Regular.|(cid:17)": {
+   "char": "7",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  }
+ },
+ "sources/1ji/2016/F.pdf": {
+  "COHBJJ+RyuminPr6-Regular|(cid:151)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 11,
+   "conf": "none"
+  },
+  "COHBJJ+RyuminPr6-Regular|(cid:152)": {
+   "char": "〕",
+   "votes": 1,
+   "n_occ": 11,
+   "conf": "low"
+  },
+  "COHBJK+RyuminPr6-Regular.|(cid:8)": {
+   "char": "3",
+   "votes": 2,
+   "n_occ": 7,
+   "conf": "high"
+  },
+  "COHBJK+RyuminPr6-Regular.|(cid:9)": {
+   "char": "7",
+   "votes": 1,
+   "n_occ": 2,
+   "conf": "low"
+  },
+  "COHBJK+RyuminPr6-Regular.|(cid:10)": {
+   "char": "5",
+   "votes": 2,
+   "n_occ": 5,
+   "conf": "high"
+  },
+  "COHBJK+RyuminPr6-Regular.|(cid:11)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "none"
+  },
+  "COHBJK+RyuminPr6-Regular.|(cid:12)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 2,
+   "conf": "none"
+  },
+  "COHBJK+RyuminPr6-Regular.|(cid:13)": {
+   "char": "1",
+   "votes": 2,
+   "n_occ": 2,
+   "conf": "high"
+  },
+  "COHBJK+RyuminPr6-Regular.|(cid:14)": {
+   "char": "2",
+   "votes": 2,
+   "n_occ": 6,
+   "conf": "high"
+  },
+  "COHCAK+FutoGoB101Pr6-Bold.|(cid:2)": {
+   "char": "1",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "COHBJJ+RyuminPr6-Regular|(cid:209)": {
+   "char": ")",
+   "votes": 2,
+   "n_occ": 15,
+   "conf": "high"
+  },
+  "COHCAK+FutoGoB101Pr6-Bold.|(cid:3)": {
+   "char": "2",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "COHCAK+FutoGoB101Pr6-Bold.|(cid:4)": {
+   "char": "3",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "COHCAK+FutoGoB101Pr6-Bold.|(cid:5)": {
+   "char": "4",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "COHCAK+FutoGoB101Pr6-Bold.|(cid:6)": {
+   "char": "5",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "COHCAK+FutoGoB101Pr6-Bold.|(cid:7)": {
+   "char": "6",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "COHCAK+FutoGoB101Pr6-Bold.|(cid:8)": {
+   "char": "7",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "COHCAK+FutoGoB101Pr6-Bold.|(cid:9)": {
+   "char": "8",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "COHCAK+FutoGoB101Pr6-Bold.|(cid:10)": {
+   "char": "9",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "COHBJK+RyuminPr6-Regular.|(cid:15)": {
+   "char": "4",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  }
+ },
+ "sources/1ji/2016/E.pdf": {
+  "COCDGJ+RyuminPr6-Regular|(cid:151)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 8,
+   "conf": "none"
+  },
+  "COCDGJ+RyuminPr6-Regular|(cid:152)": {
+   "char": "〕",
+   "votes": 1,
+   "n_occ": 8,
+   "conf": "low"
+  },
+  "COCDGK+RyuminPr6-Regular.|(cid:8)": {
+   "char": "3",
+   "votes": 2,
+   "n_occ": 7,
+   "conf": "high"
+  },
+  "COCDGK+RyuminPr6-Regular.|(cid:9)": {
+   "char": "7",
+   "votes": 2,
+   "n_occ": 3,
+   "conf": "high"
+  },
+  "COCDGK+RyuminPr6-Regular.|(cid:10)": {
+   "char": "5",
+   "votes": 2,
+   "n_occ": 4,
+   "conf": "high"
+  },
+  "COCDGK+RyuminPr6-Regular.|(cid:11)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "none"
+  },
+  "COCDGK+RyuminPr6-Regular.|(cid:12)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 2,
+   "conf": "none"
+  },
+  "COCDGK+RyuminPr6-Regular.|(cid:13)": {
+   "char": "1",
+   "votes": 2,
+   "n_occ": 15,
+   "conf": "high"
+  },
+  "COCDGK+RyuminPr6-Regular.|(cid:14)": {
+   "char": "2",
+   "votes": 2,
+   "n_occ": 12,
+   "conf": "high"
+  },
+  "COCDNL+FutoGoB101Pr6-Bold.|(cid:2)": {
+   "char": "1",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "COCDNL+FutoGoB101Pr6-Bold.|(cid:3)": {
+   "char": "2",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "COCDGJ+RyuminPr6-Regular|(cid:12)": {
+   "char": "(",
+   "votes": 2,
+   "n_occ": 25,
+   "conf": "high"
+  },
+  "COCDGJ+RyuminPr6-Regular|(cid:15)": {
+   "char": ")",
+   "votes": 2,
+   "n_occ": 25,
+   "conf": "high"
+  },
+  "COCDGK+RyuminPr6-Regular.|(cid:15)": {
+   "char": "8",
+   "votes": 2,
+   "n_occ": 9,
+   "conf": "high"
+  },
+  "COCDNL+FutoGoB101Pr6-Bold.|(cid:4)": {
+   "char": "3",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "COCDNL+FutoGoB101Pr6-Bold.|(cid:5)": {
+   "char": "4",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "COCDGK+RyuminPr6-Regular.|(cid:16)": {
+   "char": "4",
+   "votes": 2,
+   "n_occ": 5,
+   "conf": "high"
+  },
+  "COCDNL+FutoGoB101Pr6-Bold.|(cid:6)": {
+   "char": "5",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "COCDNL+FutoGoB101Pr6-Bold.|(cid:7)": {
+   "char": "6",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "COCDNL+FutoGoB101Pr6-Bold.|(cid:8)": {
+   "char": "7",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "COCDNL+FutoGoB101Pr6-Bold.|(cid:9)": {
+   "char": "8",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "COCDNL+FutoGoB101Pr6-Bold.|(cid:10)": {
+   "char": "9",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  }
+ },
+ "sources/1ji/2016/D.pdf": {
+  "CNLLPF+RyuminPr6-Regular|(cid:150)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 13,
+   "conf": "none"
+  },
+  "CNLLPF+RyuminPr6-Regular|(cid:151)": {
+   "char": "〕",
+   "votes": 1,
+   "n_occ": 13,
+   "conf": "low"
+  },
+  "CNLLPG+RyuminPr6-Regular.|(cid:8)": {
+   "char": "3",
+   "votes": 2,
+   "n_occ": 23,
+   "conf": "high"
+  },
+  "CNLLPG+RyuminPr6-Regular.|(cid:9)": {
+   "char": "7",
+   "votes": 1,
+   "n_occ": 2,
+   "conf": "low"
+  },
+  "CNLLPG+RyuminPr6-Regular.|(cid:10)": {
+   "char": "5",
+   "votes": 2,
+   "n_occ": 14,
+   "conf": "high"
+  },
+  "CNLLPG+RyuminPr6-Regular.|(cid:11)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "none"
+  },
+  "CNLLPG+RyuminPr6-Regular.|(cid:12)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 2,
+   "conf": "none"
+  },
+  "CNLLPG+RyuminPr6-Regular.|(cid:13)": {
+   "char": "1",
+   "votes": 2,
+   "n_occ": 22,
+   "conf": "high"
+  },
+  "CNLMDG+FutoGoB101Pr6-Bold|(cid:6)": {
+   "char": "(",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "CNLMGG+FutoGoB101Pr6-Bold.|(cid:2)": {
+   "char": "1",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "CNLMGG+FutoGoB101Pr6-Bold.|(cid:3)": {
+   "char": "2",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "CNLMGG+FutoGoB101Pr6-Bold.|(cid:4)": {
+   "char": "3",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "CNLMGG+FutoGoB101Pr6-Bold.|(cid:5)": {
+   "char": "4",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "CNLMGG+FutoGoB101Pr6-Bold.|(cid:6)": {
+   "char": "5",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "CNLMGG+FutoGoB101Pr6-Bold.|(cid:7)": {
+   "char": "6",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "CNLMGG+FutoGoB101Pr6-Bold.|(cid:8)": {
+   "char": "7",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "CNLMGG+FutoGoB101Pr6-Bold.|(cid:9)": {
+   "char": "8",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "CNLLPG+RyuminPr6-Regular.|(cid:14)": {
+   "char": "2",
+   "votes": 2,
+   "n_occ": 19,
+   "conf": "high"
+  },
+  "CNLLPG+RyuminPr6-Regular.|(cid:15)": {
+   "char": "4",
+   "votes": 2,
+   "n_occ": 5,
+   "conf": "high"
+  },
+  "CNLMGG+FutoGoB101Pr6-Bold.|(cid:10)": {
+   "char": "9",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "CNLLPG+RyuminPr6-Regular.|(cid:16)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "none"
+  },
+  "CNLLPG+RyuminPr6-Regular.|(cid:17)": {
+   "char": "6",
+   "votes": 2,
+   "n_occ": 3,
+   "conf": "high"
+  }
+ },
+ "sources/1ji/2017/B.pdf": {
+  "COEHLP+RyuminPr6-Regular|(cid:152)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 11,
+   "conf": "none"
+  },
+  "COEHLP+RyuminPr6-Regular|(cid:153)": {
+   "char": "〕",
+   "votes": 1,
+   "n_occ": 11,
+   "conf": "low"
+  },
+  "COEHMA+RyuminPr6-Regular.|(cid:8)": {
+   "char": "3",
+   "votes": 2,
+   "n_occ": 4,
+   "conf": "high"
+  },
+  "COEHMA+RyuminPr6-Regular.|(cid:9)": {
+   "char": "7",
+   "votes": 1,
+   "n_occ": 3,
+   "conf": "low"
+  },
+  "COEHMA+RyuminPr6-Regular.|(cid:10)": {
+   "char": "5",
+   "votes": 2,
+   "n_occ": 6,
+   "conf": "high"
+  },
+  "COEHMA+RyuminPr6-Regular.|(cid:11)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "none"
+  },
+  "COEHMA+RyuminPr6-Regular.|(cid:12)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 2,
+   "conf": "none"
+  },
+  "COEHMA+RyuminPr6-Regular.|(cid:13)": {
+   "char": "1",
+   "votes": 2,
+   "n_occ": 9,
+   "conf": "high"
+  },
+  "COEIEP+FutoGoB101Pr6-Bold.|(cid:2)": {
+   "char": "1",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "COEHLP+RyuminPr6-Regular|(cid:242)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 6,
+   "conf": "none"
+  },
+  "COEIEP+FutoGoB101Pr6-Bold.|(cid:3)": {
+   "char": "2",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "COEHMA+RyuminPr6-Regular.|(cid:14)": {
+   "char": "6",
+   "votes": 2,
+   "n_occ": 5,
+   "conf": "high"
+  },
+  "COEIEP+FutoGoB101Pr6-Bold.|(cid:4)": {
+   "char": "3",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "COEIEP+FutoGoB101Pr6-Bold.|(cid:5)": {
+   "char": "4",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "COEIEP+FutoGoB101Pr6-Bold.|(cid:6)": {
+   "char": "5",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "COEIEP+FutoGoB101Pr6-Bold.|(cid:7)": {
+   "char": "6",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "COEIEP+FutoGoB101Pr6-Bold.|(cid:8)": {
+   "char": "7",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "COEIEP+FutoGoB101Pr6-Bold.|(cid:9)": {
+   "char": "8",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "COEIEP+FutoGoB101Pr6-Bold.|(cid:10)": {
+   "char": "9",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "COEHMA+RyuminPr6-Regular.|(cid:15)": {
+   "char": "2",
+   "votes": 2,
+   "n_occ": 4,
+   "conf": "high"
+  }
+ },
+ "sources/1ji/2016/G.pdf": {
+  "COMBCA+RyuminPr6-Regular|(cid:151)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 9,
+   "conf": "none"
+  },
+  "COMBCA+RyuminPr6-Regular|(cid:152)": {
+   "char": "〕",
+   "votes": 1,
+   "n_occ": 9,
+   "conf": "low"
+  },
+  "COMBDB+RyuminPr6-Regular.|(cid:8)": {
+   "char": "3",
+   "votes": 2,
+   "n_occ": 20,
+   "conf": "high"
+  },
+  "COMBDB+RyuminPr6-Regular.|(cid:9)": {
+   "char": "7",
+   "votes": 2,
+   "n_occ": 5,
+   "conf": "high"
+  },
+  "COMBDB+RyuminPr6-Regular.|(cid:10)": {
+   "char": "5",
+   "votes": 2,
+   "n_occ": 6,
+   "conf": "high"
+  },
+  "COMBDB+RyuminPr6-Regular.|(cid:11)": {
+   "char": "9",
+   "votes": 1,
+   "n_occ": 2,
+   "conf": "low"
+  },
+  "COMBDB+RyuminPr6-Regular.|(cid:12)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 2,
+   "conf": "none"
+  },
+  "COMBDB+RyuminPr6-Regular.|(cid:13)": {
+   "char": "1",
+   "votes": 2,
+   "n_occ": 33,
+   "conf": "high"
+  },
+  "COMBDB+RyuminPr6-Regular.|(cid:14)": {
+   "char": "2",
+   "votes": 1,
+   "n_occ": 21,
+   "conf": "low"
+  },
+  "COMBKB+FutoGoB101Pr6-Bold.|(cid:2)": {
+   "char": "1",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "COMBCA+RyuminPr6-Regular|(cid:17)": {
+   "char": "(",
+   "votes": 1,
+   "n_occ": 49,
+   "conf": "low"
+  },
+  "COMBCA+RyuminPr6-Regular|(cid:18)": {
+   "char": ")",
+   "votes": 1,
+   "n_occ": 49,
+   "conf": "low"
+  },
+  "COMBKB+FutoGoB101Pr6-Bold.|(cid:3)": {
+   "char": "2",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "COMBKB+FutoGoB101Pr6-Bold.|(cid:4)": {
+   "char": "3",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "COMBKB+FutoGoB101Pr6-Bold.|(cid:5)": {
+   "char": "4",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "COMBKB+FutoGoB101Pr6-Bold.|(cid:6)": {
+   "char": "5",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "COMBDB+RyuminPr6-Regular.|(cid:15)": {
+   "char": "4",
+   "votes": 2,
+   "n_occ": 2,
+   "conf": "high"
+  },
+  "COMBKB+FutoGoB101Pr6-Bold.|(cid:7)": {
+   "char": "6",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "COMBKB+FutoGoB101Pr6-Bold.|(cid:8)": {
+   "char": "7",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "COMBKB+FutoGoB101Pr6-Bold.|(cid:9)": {
+   "char": "8",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "COMBKB+FutoGoB101Pr6-Bold.|(cid:10)": {
+   "char": "9",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "COMBDB+RyuminPr6-Regular.|(cid:16)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "none"
+  },
+  "COMBDB+RyuminPr6-Regular.|(cid:17)": {
+   "char": "6",
+   "votes": 2,
+   "n_occ": 2,
+   "conf": "high"
+  }
+ },
+ "sources/1ji/2017/C.pdf": {
+  "CPCODH+RyuminPr6-Regular|(cid:152)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 3,
+   "conf": "none"
+  },
+  "CPCODH+RyuminPr6-Regular|(cid:153)": {
+   "char": "〕",
+   "votes": 1,
+   "n_occ": 3,
+   "conf": "low"
+  },
+  "CPCODI+RyuminPr6-Regular.|(cid:8)": {
+   "char": "3",
+   "votes": 1,
+   "n_occ": 3,
+   "conf": "low"
+  },
+  "CPCODI+RyuminPr6-Regular.|(cid:9)": {
+   "char": "7",
+   "votes": 1,
+   "n_occ": 2,
+   "conf": "low"
+  },
+  "CPCODI+RyuminPr6-Regular.|(cid:10)": {
+   "char": "5",
+   "votes": 2,
+   "n_occ": 3,
+   "conf": "high"
+  },
+  "CPCODI+RyuminPr6-Regular.|(cid:11)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "none"
+  },
+  "CPCODI+RyuminPr6-Regular.|(cid:12)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 2,
+   "conf": "none"
+  },
+  "CPCODI+RyuminPr6-Regular.|(cid:13)": {
+   "char": "1",
+   "votes": 2,
+   "n_occ": 12,
+   "conf": "high"
+  },
+  "CPCOMH+FutoGoB101Pr6-Bold.|(cid:2)": {
+   "char": "1",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "CPCOMH+FutoGoB101Pr6-Bold.|(cid:3)": {
+   "char": "2",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "CPCOMH+FutoGoB101Pr6-Bold.|(cid:4)": {
+   "char": "3",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "CPCOMH+FutoGoB101Pr6-Bold.|(cid:5)": {
+   "char": "4",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "CPCOMH+FutoGoB101Pr6-Bold.|(cid:6)": {
+   "char": "5",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "CPCOMH+FutoGoB101Pr6-Bold.|(cid:7)": {
+   "char": "6",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "CPCOMH+FutoGoB101Pr6-Bold.|(cid:8)": {
+   "char": "7",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "CPCOMH+FutoGoB101Pr6-Bold.|(cid:9)": {
+   "char": "8",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "CPCOMH+FutoGoB101Pr6-Bold.|(cid:10)": {
+   "char": "9",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "CPCODI+RyuminPr6-Regular.|(cid:14)": {
+   "char": "4",
+   "votes": 2,
+   "n_occ": 3,
+   "conf": "high"
+  },
+  "CPCODI+RyuminPr6-Regular.|(cid:15)": {
+   "char": "2",
+   "votes": 1,
+   "n_occ": 5,
+   "conf": "low"
+  }
+ },
+ "sources/1ji/2017/D.pdf": {
+  "DABJCE+RyuminPr6-Regular.|(cid:2)": {
+   "char": "1",
+   "votes": 2,
+   "n_occ": 27,
+   "conf": "high"
+  },
+  "DABJCF+FutoGoB101Pr6-Bold|(cid:6)": {
+   "char": "(",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "DABJCE+RyuminPr6-Regular.|(cid:9)": {
+   "char": "3",
+   "votes": 2,
+   "n_occ": 16,
+   "conf": "high"
+  },
+  "DABJCE+RyuminPr6-Regular.|(cid:10)": {
+   "char": "7",
+   "votes": 1,
+   "n_occ": 2,
+   "conf": "low"
+  },
+  "DABJCE+RyuminPr6-Regular.|(cid:11)": {
+   "char": "5",
+   "votes": 2,
+   "n_occ": 8,
+   "conf": "high"
+  },
+  "DABJCE+RyuminPr6-Regular.|(cid:12)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "none"
+  },
+  "DABJCE+RyuminPr6-Regular.|(cid:13)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 2,
+   "conf": "none"
+  },
+  "DABJND+FutoGoB101Pr6-Bold.|(cid:2)": {
+   "char": "1",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "DABJND+FutoGoB101Pr6-Bold.|(cid:3)": {
+   "char": "2",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "DABJCD+RyuminPr6-Regular|(cid:7)": {
+   "char": "(",
+   "votes": 2,
+   "n_occ": 19,
+   "conf": "high"
+  },
+  "DABJCD+RyuminPr6-Regular|(cid:19)": {
+   "char": ")",
+   "votes": 2,
+   "n_occ": 17,
+   "conf": "high"
+  },
+  "DABJND+FutoGoB101Pr6-Bold.|(cid:4)": {
+   "char": "3",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "DABJND+FutoGoB101Pr6-Bold.|(cid:5)": {
+   "char": "4",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "DABJND+FutoGoB101Pr6-Bold.|(cid:6)": {
+   "char": "5",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "DABJND+FutoGoB101Pr6-Bold.|(cid:7)": {
+   "char": "6",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "DABJND+FutoGoB101Pr6-Bold.|(cid:8)": {
+   "char": "7",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "DABJCE+RyuminPr6-Regular.|(cid:14)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 7,
+   "conf": "none"
+  },
+  "DABJCE+RyuminPr6-Regular.|(cid:15)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "none"
+  },
+  "DABJND+FutoGoB101Pr6-Bold.|(cid:9)": {
+   "char": "8",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "DABJND+FutoGoB101Pr6-Bold.|(cid:10)": {
+   "char": "9",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "DABJCE+RyuminPr6-Regular.|(cid:16)": {
+   "char": "2",
+   "votes": 2,
+   "n_occ": 21,
+   "conf": "high"
+  },
+  "DABJCD+RyuminPr6-Regular|(cid:20)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 2,
+   "conf": "none"
+  },
+  "DABJCD+RyuminPr6-Regular|(cid:21)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 2,
+   "conf": "none"
+  }
+ },
+ "sources/1ji/2016/A.pdf": {
+  "CHDGAJ+RyuminPr6-Regular|(cid:151)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 19,
+   "conf": "none"
+  },
+  "CHDGAJ+RyuminPr6-Regular|(cid:152)": {
+   "char": "〕",
+   "votes": 1,
+   "n_occ": 19,
+   "conf": "low"
+  },
+  "CHDGAK+RyuminPr6-Regular.|(cid:8)": {
+   "char": "3",
+   "votes": 1,
+   "n_occ": 2,
+   "conf": "low"
+  },
+  "CHDGAK+RyuminPr6-Regular.|(cid:9)": {
+   "char": "7",
+   "votes": 1,
+   "n_occ": 2,
+   "conf": "low"
+  },
+  "CHDGAK+RyuminPr6-Regular.|(cid:10)": {
+   "char": "5",
+   "votes": 2,
+   "n_occ": 6,
+   "conf": "high"
+  },
+  "CHDGAK+RyuminPr6-Regular.|(cid:11)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "none"
+  },
+  "CHDGAK+RyuminPr6-Regular.|(cid:12)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 2,
+   "conf": "none"
+  },
+  "CHDGAK+RyuminPr6-Regular.|(cid:13)": {
+   "char": "1",
+   "votes": 2,
+   "n_occ": 18,
+   "conf": "high"
+  },
+  "CHDGOI+FutoGoB101Pr6-Bold.|(cid:2)": {
+   "char": "1",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "CHDGAJ+RyuminPr6-Regular|(cid:221)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "none"
+  },
+  "CHDGAJ+RyuminPr6-Regular|(cid:228)": {
+   "char": "(",
+   "votes": 2,
+   "n_occ": 17,
+   "conf": "high"
+  },
+  "CHDGAJ+RyuminPr6-Regular|(cid:231)": {
+   "char": ")",
+   "votes": 2,
+   "n_occ": 17,
+   "conf": "high"
+  },
+  "CHDGOI+FutoGoB101Pr6-Bold.|(cid:3)": {
+   "char": "2",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "CHDGOI+FutoGoB101Pr6-Bold.|(cid:4)": {
+   "char": "3",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "CHDGOI+FutoGoB101Pr6-Bold.|(cid:5)": {
+   "char": "4",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "CHDGOI+FutoGoB101Pr6-Bold.|(cid:6)": {
+   "char": "5",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "CHDGAK+RyuminPr6-Regular.|(cid:14)": {
+   "char": "2",
+   "votes": 2,
+   "n_occ": 9,
+   "conf": "high"
+  },
+  "CHDGOI+FutoGoB101Pr6-Bold.|(cid:7)": {
+   "char": "6",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "CHDGOI+FutoGoB101Pr6-Bold.|(cid:8)": {
+   "char": "7",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "CHDGOI+FutoGoB101Pr6-Bold.|(cid:9)": {
+   "char": "8",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "CHDHAI+RyuminPr6-Regular-90msp-RKSJ-H|(cid:9501)": {
+   "char": "Y",
+   "votes": 1,
+   "n_occ": 3,
+   "conf": "manual"
+  },
+  "CHDHAI+RyuminPr6-Regular-90msp-RKSJ-H|(cid:9477)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 6,
+   "conf": "none"
+  },
+  "CHDHAI+RyuminPr6-Regular-90msp-RKSJ-H|(cid:9481)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 4,
+   "conf": "none"
+  },
+  "CHDHAI+RyuminPr6-Regular-90msp-RKSJ-H|(cid:9482)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 3,
+   "conf": "none"
+  },
+  "CHDHAI+RyuminPr6-Regular-90msp-RKSJ-H|(cid:9478)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 5,
+   "conf": "none"
+  },
+  "CHDGAK+RyuminPr6-Regular.|(cid:22)": {
+   "char": "4",
+   "votes": 2,
+   "n_occ": 3,
+   "conf": "high"
+  },
+  "CHDGAK+RyuminPr6-Regular.|(cid:23)": {
+   "char": "8",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "CHDGOI+FutoGoB101Pr6-Bold.|(cid:10)": {
+   "char": "9",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "CHDHAI+RyuminPr6-Regular-90msp-RKSJ-H|(cid:9479)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "none"
+  },
+  "CHDHAI+RyuminPr6-Regular-90msp-RKSJ-H|(cid:9480)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 2,
+   "conf": "none"
+  },
+  "CHDHAI+RyuminPr6-Regular-90msp-RKSJ-H|(cid:9500)": {
+   "char": "X",
+   "votes": 1,
+   "n_occ": 2,
+   "conf": "manual"
+  },
+  "CHDHAI+RyuminPr6-Regular-90msp-RKSJ-H|(cid:9516)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "none"
+  },
+  "CHDHAI+RyuminPr6-Regular-90msp-RKSJ-H|(cid:9517)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "none"
+  },
+  "CHDHAI+RyuminPr6-Regular-90msp-RKSJ-H|(cid:9518)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "none"
+  },
+  "CHDHAI+RyuminPr6-Regular-90msp-RKSJ-H|(cid:9519)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "none"
+  },
+  "CHDHAI+RyuminPr6-Regular-90msp-RKSJ-H|(cid:9523)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "none"
+  },
+  "CHDHAI+RyuminPr6-Regular-90msp-RKSJ-H|(cid:9532)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 4,
+   "conf": "none"
+  },
+  "CHDHAI+RyuminPr6-Regular-90msp-RKSJ-H|(cid:9533)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 4,
+   "conf": "none"
+  },
+  "CHDHAI+RyuminPr6-Regular-90msp-RKSJ-H|(cid:9488)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "none"
+  },
+  "CHDHAI+RyuminPr6-Regular-90msp-RKSJ-H|(cid:9494)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "none"
+  },
+  "CHDHAI+RyuminPr6-Regular-90msp-RKSJ-H|(cid:9489)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "none"
+  },
+  "CHDHAI+RyuminPr6-Regular-90msp-RKSJ-H|(cid:9495)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "none"
+  }
+ },
+ "sources/1ji/2017/A.pdf": {
+  "CKBBHB+RyuminPr6-Regular.|(cid:2)": {
+   "char": "1",
+   "votes": 2,
+   "n_occ": 27,
+   "conf": "high"
+  },
+  "CKBBHB+RyuminPr6-Regular.|(cid:9)": {
+   "char": "3",
+   "votes": 1,
+   "n_occ": 2,
+   "conf": "low"
+  },
+  "CKBBHB+RyuminPr6-Regular.|(cid:10)": {
+   "char": "7",
+   "votes": 1,
+   "n_occ": 2,
+   "conf": "low"
+  },
+  "CKBBHB+RyuminPr6-Regular.|(cid:11)": {
+   "char": "5",
+   "votes": 2,
+   "n_occ": 7,
+   "conf": "high"
+  },
+  "CKBBHB+RyuminPr6-Regular.|(cid:12)": {
+   "char": "9",
+   "votes": 1,
+   "n_occ": 2,
+   "conf": "low"
+  },
+  "CKBBHB+RyuminPr6-Regular.|(cid:13)": {
+   "char": "0",
+   "votes": 2,
+   "n_occ": 4,
+   "conf": "high"
+  },
+  "CKBCGO+FutoGoB101Pr6-Bold.|(cid:2)": {
+   "char": "1",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "CKBBHA+RyuminPr6-Regular|(cid:231)": {
+   "char": "『",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "manual"
+  },
+  "CKBBHA+RyuminPr6-Regular|(cid:237)": {
+   "char": "』",
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "manual"
+  },
+  "CKBBHA+RyuminPr6-Regular|(cid:238)": {
+   "char": "(",
+   "votes": 2,
+   "n_occ": 21,
+   "conf": "high"
+  },
+  "CKBBHA+RyuminPr6-Regular|(cid:240)": {
+   "char": ")",
+   "votes": 2,
+   "n_occ": 21,
+   "conf": "high"
+  },
+  "CKBCGO+FutoGoB101Pr6-Bold.|(cid:3)": {
+   "char": "2",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "CKBBHB+RyuminPr6-Regular.|(cid:14)": {
+   "char": "2",
+   "votes": 2,
+   "n_occ": 7,
+   "conf": "high"
+  },
+  "CKBDHJ+RyuminPr6-Regular-90msp-RKSJ-H|(cid:16206)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 4,
+   "conf": "none"
+  },
+  "CKBCGO+FutoGoB101Pr6-Bold.|(cid:4)": {
+   "char": "3",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "CKBCGO+FutoGoB101Pr6-Bold.|(cid:5)": {
+   "char": "4",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "CKBCIO+RyuminPr6-Regular-90msp-RKSJ-H|(cid:9477)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 4,
+   "conf": "none"
+  },
+  "CKBCIO+RyuminPr6-Regular-90msp-RKSJ-H|(cid:9478)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 4,
+   "conf": "none"
+  },
+  "CKBCIO+RyuminPr6-Regular-90msp-RKSJ-H|(cid:9481)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "none"
+  },
+  "CKBCIO+RyuminPr6-Regular-90msp-RKSJ-H|(cid:9482)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 3,
+   "conf": "none"
+  },
+  "CKBCGO+FutoGoB101Pr6-Bold.|(cid:6)": {
+   "char": "5",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "CKBCGO+FutoGoB101Pr6-Bold.|(cid:7)": {
+   "char": "6",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "CKBCGO+FutoGoB101Pr6-Bold.|(cid:8)": {
+   "char": "7",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "CKBCGO+FutoGoB101Pr6-Bold.|(cid:9)": {
+   "char": "8",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "CKBCGO+FutoGoB101Pr6-Bold.|(cid:10)": {
+   "char": "9",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "CKBCIO+RyuminPr6-Regular-90msp-RKSJ-H|(cid:9488)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "none"
+  },
+  "CKBCIO+RyuminPr6-Regular-90msp-RKSJ-H|(cid:9489)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "none"
+  },
+  "CKBCIO+RyuminPr6-Regular-90msp-RKSJ-H|(cid:9485)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 3,
+   "conf": "none"
+  },
+  "CKBCIO+RyuminPr6-Regular-90msp-RKSJ-H|(cid:9495)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 3,
+   "conf": "none"
+  },
+  "CKBCIO+RyuminPr6-Regular-90msp-RKSJ-H|(cid:9480)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 3,
+   "conf": "none"
+  },
+  "CKBCIO+RyuminPr6-Regular-90msp-RKSJ-H|(cid:9491)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "none"
+  },
+  "CKBCIO+RyuminPr6-Regular-90msp-RKSJ-H|(cid:9479)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 2,
+   "conf": "none"
+  },
+  "CKBCIO+RyuminPr6-Regular-90msp-RKSJ-H|(cid:9484)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 2,
+   "conf": "none"
+  },
+  "CKBCIO+RyuminPr6-Regular-90msp-RKSJ-H|(cid:9483)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 2,
+   "conf": "none"
+  }
+ },
+ "sources/1ji/2017/E.pdf": {
+  "DBAGOA+RyuminPr6-Regular.|(cid:2)": {
+   "char": "1",
+   "votes": 2,
+   "n_occ": 15,
+   "conf": "high"
+  },
+  "DBAGOA+RyuminPr6-Regular.|(cid:3)": {
+   "char": "2",
+   "votes": 2,
+   "n_occ": 11,
+   "conf": "high"
+  },
+  "DBAGOA+RyuminPr6-Regular.|(cid:10)": {
+   "char": "3",
+   "votes": 2,
+   "n_occ": 5,
+   "conf": "high"
+  },
+  "DBAGOA+RyuminPr6-Regular.|(cid:11)": {
+   "char": "7",
+   "votes": 1,
+   "n_occ": 2,
+   "conf": "low"
+  },
+  "DBAGOA+RyuminPr6-Regular.|(cid:12)": {
+   "char": "5",
+   "votes": 2,
+   "n_occ": 6,
+   "conf": "high"
+  },
+  "DBAGOA+RyuminPr6-Regular.|(cid:13)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "none"
+  },
+  "DBAGOA+RyuminPr6-Regular.|(cid:14)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 2,
+   "conf": "none"
+  },
+  "DBAHGA+FutoGoB101Pr6-Bold.|(cid:2)": {
+   "char": "1",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "DBAHGA+FutoGoB101Pr6-Bold.|(cid:3)": {
+   "char": "2",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "DBAGMP+RyuminPr6-Regular|(cid:5)": {
+   "char": "(",
+   "votes": 2,
+   "n_occ": 22,
+   "conf": "high"
+  },
+  "DBAGMP+RyuminPr6-Regular|(cid:8)": {
+   "char": ")",
+   "votes": 2,
+   "n_occ": 22,
+   "conf": "high"
+  },
+  "DBAHGA+FutoGoB101Pr6-Bold.|(cid:4)": {
+   "char": "3",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "DBAHGA+FutoGoB101Pr6-Bold.|(cid:5)": {
+   "char": "4",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "DBAHGA+FutoGoB101Pr6-Bold.|(cid:6)": {
+   "char": "5",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "DBAHGA+FutoGoB101Pr6-Bold.|(cid:7)": {
+   "char": "6",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "DBAHGA+FutoGoB101Pr6-Bold.|(cid:8)": {
+   "char": "7",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "DBAHGA+FutoGoB101Pr6-Bold.|(cid:9)": {
+   "char": "8",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "DBAHGA+FutoGoB101Pr6-Bold.|(cid:10)": {
+   "char": "9",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "DBAGOA+RyuminPr6-Regular.|(cid:15)": {
+   "char": "6",
+   "votes": 2,
+   "n_occ": 6,
+   "conf": "high"
+  }
+ },
+ "sources/1ji/2017/F.pdf": {
+  "DBNPCP+RyuminPr6-Regular.|(cid:2)": {
+   "char": "1",
+   "votes": 2,
+   "n_occ": 7,
+   "conf": "high"
+  },
+  "DBNPCP+RyuminPr6-Regular.|(cid:3)": {
+   "char": "2",
+   "votes": 2,
+   "n_occ": 4,
+   "conf": "high"
+  },
+  "DBNPCP+RyuminPr6-Regular.|(cid:10)": {
+   "char": "3",
+   "votes": 2,
+   "n_occ": 3,
+   "conf": "high"
+  },
+  "DBNPCP+RyuminPr6-Regular.|(cid:11)": {
+   "char": "7",
+   "votes": 1,
+   "n_occ": 2,
+   "conf": "low"
+  },
+  "DBNPCP+RyuminPr6-Regular.|(cid:12)": {
+   "char": "5",
+   "votes": 2,
+   "n_occ": 3,
+   "conf": "high"
+  },
+  "DBNPCP+RyuminPr6-Regular.|(cid:13)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "none"
+  },
+  "DBNPCP+RyuminPr6-Regular.|(cid:14)": {
+   "char": "0",
+   "votes": 2,
+   "n_occ": 4,
+   "conf": "high"
+  },
+  "DBNPLO+FutoGoB101Pr6-Bold.|(cid:2)": {
+   "char": "1",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "DBNPCO+RyuminPr6-Regular|(cid:212)": {
+   "char": "(",
+   "votes": 2,
+   "n_occ": 21,
+   "conf": "high"
+  },
+  "DBNPCO+RyuminPr6-Regular|(cid:214)": {
+   "char": ")",
+   "votes": 2,
+   "n_occ": 21,
+   "conf": "high"
+  },
+  "DBNPLO+FutoGoB101Pr6-Bold.|(cid:3)": {
+   "char": "2",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "DBNPLO+FutoGoB101Pr6-Bold.|(cid:4)": {
+   "char": "3",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "DBNPLO+FutoGoB101Pr6-Bold.|(cid:5)": {
+   "char": "4",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "DBNPLO+FutoGoB101Pr6-Bold.|(cid:6)": {
+   "char": "5",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "DBNPLO+FutoGoB101Pr6-Bold.|(cid:7)": {
+   "char": "6",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "DBNPLO+FutoGoB101Pr6-Bold.|(cid:8)": {
+   "char": "7",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "DBNPLO+FutoGoB101Pr6-Bold.|(cid:9)": {
+   "char": "8",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "DBNPLO+FutoGoB101Pr6-Bold.|(cid:10)": {
+   "char": "9",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  }
+ },
+ "sources/1ji/2017/G.pdf": {
+  "DCJAPJ+RyuminPr6-Regular|(cid:153)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 4,
+   "conf": "none"
+  },
+  "DCJAPJ+RyuminPr6-Regular|(cid:154)": {
+   "char": "〕",
+   "votes": 1,
+   "n_occ": 4,
+   "conf": "low"
+  },
+  "DCJBAK+RyuminPr6-Regular.|(cid:8)": {
+   "char": "3",
+   "votes": 2,
+   "n_occ": 23,
+   "conf": "high"
+  },
+  "DCJBAK+RyuminPr6-Regular.|(cid:9)": {
+   "char": "7",
+   "votes": 2,
+   "n_occ": 9,
+   "conf": "high"
+  },
+  "DCJBAK+RyuminPr6-Regular.|(cid:10)": {
+   "char": "5",
+   "votes": 2,
+   "n_occ": 19,
+   "conf": "high"
+  },
+  "DCJBAK+RyuminPr6-Regular.|(cid:11)": {
+   "char": "9",
+   "votes": 1,
+   "n_occ": 4,
+   "conf": "low"
+  },
+  "DCJBAK+RyuminPr6-Regular.|(cid:12)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 2,
+   "conf": "none"
+  },
+  "DCJBAK+RyuminPr6-Regular.|(cid:13)": {
+   "char": "1",
+   "votes": 2,
+   "n_occ": 35,
+   "conf": "high"
+  },
+  "DCJBAK+RyuminPr6-Regular.|(cid:14)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 35,
+   "conf": "none"
+  },
+  "DCJBIK+FutoGoB101Pr6-Bold.|(cid:2)": {
+   "char": "1",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "DCJAPJ+RyuminPr6-Regular|(cid:4)": {
+   "char": "(",
+   "votes": 1,
+   "n_occ": 49,
+   "conf": "low"
+  },
+  "DCJAPJ+RyuminPr6-Regular|(cid:5)": {
+   "char": ")",
+   "votes": 1,
+   "n_occ": 49,
+   "conf": "low"
+  },
+  "DCJBIK+FutoGoB101Pr6-Bold.|(cid:3)": {
+   "char": "2",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "DCJBIK+FutoGoB101Pr6-Bold.|(cid:4)": {
+   "char": "3",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "DCJBIK+FutoGoB101Pr6-Bold.|(cid:5)": {
+   "char": "4",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "DCJBIK+FutoGoB101Pr6-Bold.|(cid:6)": {
+   "char": "5",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "DCJBIK+FutoGoB101Pr6-Bold.|(cid:7)": {
+   "char": "6",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "DCJBAK+RyuminPr6-Regular.|(cid:15)": {
+   "char": "6",
+   "votes": 2,
+   "n_occ": 10,
+   "conf": "high"
+  },
+  "DCJBAK+RyuminPr6-Regular.|(cid:16)": {
+   "char": "4",
+   "votes": 2,
+   "n_occ": 12,
+   "conf": "high"
+  },
+  "DCJBIK+FutoGoB101Pr6-Bold.|(cid:8)": {
+   "char": "7",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "DCJBIK+FutoGoB101Pr6-Bold.|(cid:9)": {
+   "char": "8",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "DCJBIK+FutoGoB101Pr6-Bold.|(cid:10)": {
+   "char": "9",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "DCJBAK+RyuminPr6-Regular.|(cid:17)": {
+   "char": "8",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "DCJAPJ+RyuminPr6-Regular|(cid:140)": {
+   "char": "『",
+   "votes": 2,
+   "n_occ": 4,
+   "conf": "manual"
+  },
+  "DCJAPJ+RyuminPr6-Regular|(cid:143)": {
+   "char": "』",
+   "votes": 2,
+   "n_occ": 4,
+   "conf": "manual"
+  }
+ },
+ "sources/2ji/2015/A.pdf": {
+  "PHDIIC+RyuminPr6-Regular.|(cid:2)": {
+   "char": "3",
+   "votes": 1,
+   "n_occ": 2,
+   "conf": "low"
+  },
+  "PHDIIC+RyuminPr6-Regular.|(cid:3)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 2,
+   "conf": "none"
+  },
+  "PHDIIC+RyuminPr6-Regular.|(cid:4)": {
+   "char": "5",
+   "votes": 2,
+   "n_occ": 4,
+   "conf": "high"
+  },
+  "PHDIIC+RyuminPr6-Regular.|(cid:5)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "none"
+  },
+  "PHDIIC+RyuminPr6-Regular.|(cid:6)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 2,
+   "conf": "none"
+  },
+  "PHDIIC+RyuminPr6-Regular.|(cid:7)": {
+   "char": "2",
+   "votes": 1,
+   "n_occ": 2,
+   "conf": "low"
+  }
+ },
+ "sources/2ji/2015/B.pdf": {
+  "PIGGPG+RyuminPr6-Regular.|(cid:2)": {
+   "char": "3",
+   "votes": 2,
+   "n_occ": 4,
+   "conf": "high"
+  },
+  "PIGGPG+RyuminPr6-Regular.|(cid:3)": {
+   "char": "1",
+   "votes": 2,
+   "n_occ": 10,
+   "conf": "high"
+  },
+  "PIGGPG+RyuminPr6-Regular.|(cid:4)": {
+   "char": "5",
+   "votes": 2,
+   "n_occ": 3,
+   "conf": "high"
+  },
+  "PIGGPG+RyuminPr6-Regular.|(cid:5)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "none"
+  },
+  "PIGGPG+RyuminPr6-Regular.|(cid:6)": {
+   "char": "4",
+   "votes": 2,
+   "n_occ": 3,
+   "conf": "high"
+  },
+  "PIGGPG+RyuminPr6-Regular.|(cid:7)": {
+   "char": "2",
+   "votes": 2,
+   "n_occ": 9,
+   "conf": "high"
+  },
+  "PIGGPG+RyuminPr6-Regular.|(cid:8)": {
+   "char": "8",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "PIGGPG+RyuminPr6-Regular.|(cid:9)": {
+   "char": "7",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "PIGGPG+RyuminPr6-Regular.|(cid:10)": {
+   "char": "(",
+   "votes": 2,
+   "n_occ": 2,
+   "conf": "high"
+  }
+ },
+ "sources/2ji/2015/C.pdf": {
+  "PJJOPN+RyuminPr6-Regular.|(cid:2)": {
+   "char": "3",
+   "votes": 2,
+   "n_occ": 7,
+   "conf": "high"
+  },
+  "PJJOPN+RyuminPr6-Regular.|(cid:3)": {
+   "char": "1",
+   "votes": 2,
+   "n_occ": 8,
+   "conf": "high"
+  },
+  "PJJOPN+RyuminPr6-Regular.|(cid:4)": {
+   "char": "5",
+   "votes": 2,
+   "n_occ": 3,
+   "conf": "high"
+  },
+  "PJJOPN+RyuminPr6-Regular.|(cid:5)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "none"
+  },
+  "PJJOPN+RyuminPr6-Regular.|(cid:6)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 4,
+   "conf": "none"
+  },
+  "PJJOPN+RyuminPr6-Regular.|(cid:7)": {
+   "char": "2",
+   "votes": 2,
+   "n_occ": 7,
+   "conf": "high"
+  },
+  "PJJOOM+RyuminPr6-Regular|(cid:128)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 3,
+   "conf": "none"
+  },
+  "PJJOOM+RyuminPr6-Regular|(cid:132)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 3,
+   "conf": "none"
+  }
+ },
+ "sources/2ji/2015/D.pdf": {
+  "PKKNNC+RyuminPr6-Regular.|(cid:2)": {
+   "char": "3",
+   "votes": 2,
+   "n_occ": 6,
+   "conf": "high"
+  },
+  "PKKNNC+RyuminPr6-Regular.|(cid:3)": {
+   "char": "1",
+   "votes": 2,
+   "n_occ": 14,
+   "conf": "high"
+  },
+  "PKKNNC+RyuminPr6-Regular.|(cid:4)": {
+   "char": "5",
+   "votes": 2,
+   "n_occ": 3,
+   "conf": "high"
+  },
+  "PKKNNC+RyuminPr6-Regular.|(cid:5)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "none"
+  },
+  "PKKNNC+RyuminPr6-Regular.|(cid:6)": {
+   "char": "4",
+   "votes": 1,
+   "n_occ": 2,
+   "conf": "low"
+  },
+  "PKKNNC+RyuminPr6-Regular.|(cid:7)": {
+   "char": "2",
+   "votes": 1,
+   "n_occ": 12,
+   "conf": "low"
+  },
+  "PKKNNC+RyuminPr6-Regular.|(cid:8)": {
+   "char": "7",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "PKKNNC+RyuminPr6-Regular.|(cid:9)": {
+   "char": "(",
+   "votes": 2,
+   "n_occ": 9,
+   "conf": "high"
+  }
+ },
+ "sources/2ji/2016/A.pdf": {
+  "PDFCPJ+RyuminPr6-Regular.|(cid:2)": {
+   "char": "3",
+   "votes": 2,
+   "n_occ": 6,
+   "conf": "high"
+  },
+  "PDFCPJ+RyuminPr6-Regular.|(cid:3)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 4,
+   "conf": "none"
+  },
+  "PDFCPJ+RyuminPr6-Regular.|(cid:4)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "none"
+  },
+  "PDFCPJ+RyuminPr6-Regular.|(cid:5)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "none"
+  },
+  "PDFCPJ+RyuminPr6-Regular.|(cid:6)": {
+   "char": "4",
+   "votes": 1,
+   "n_occ": 2,
+   "conf": "low"
+  },
+  "PDFCPJ+RyuminPr6-Regular.|(cid:7)": {
+   "char": "5",
+   "votes": 2,
+   "n_occ": 4,
+   "conf": "high"
+  },
+  "PDFCPJ+RyuminPr6-Regular.|(cid:8)": {
+   "char": "2",
+   "votes": 2,
+   "n_occ": 5,
+   "conf": "high"
+  }
+ },
+ "sources/2ji/2016/B.pdf": {
+  "PFGIJK+RyuminPr6-Regular.|(cid:2)": {
+   "char": "3",
+   "votes": 2,
+   "n_occ": 6,
+   "conf": "high"
+  },
+  "PFGIJK+RyuminPr6-Regular.|(cid:3)": {
+   "char": "1",
+   "votes": 2,
+   "n_occ": 17,
+   "conf": "high"
+  },
+  "PFGIJK+RyuminPr6-Regular.|(cid:4)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "none"
+  },
+  "PFGIJK+RyuminPr6-Regular.|(cid:5)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "none"
+  },
+  "PFGIJK+RyuminPr6-Regular.|(cid:6)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 2,
+   "conf": "none"
+  },
+  "PFGIJK+RyuminPr6-Regular.|(cid:7)": {
+   "char": "5",
+   "votes": 2,
+   "n_occ": 5,
+   "conf": "high"
+  },
+  "PFGIJK+RyuminPr6-Regular.|(cid:8)": {
+   "char": "2",
+   "votes": 2,
+   "n_occ": 14,
+   "conf": "high"
+  },
+  "PFGIJK+RyuminPr6-Regular.|(cid:22)": {
+   "char": "9",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "PFGIJK+RyuminPr6-Regular.|(cid:23)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "none"
+  },
+  "PFGIJI+RyuminPr6-Regular|(cid:16)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 2,
+   "conf": "none"
+  },
+  "PFGIJI+RyuminPr6-Regular|(cid:17)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 2,
+   "conf": "none"
+  }
+ },
+ "sources/2ji/2016/C.pdf": {
+  "PHDMDB+RyuminPr6-Regular.|(cid:2)": {
+   "char": "3",
+   "votes": 2,
+   "n_occ": 7,
+   "conf": "high"
+  },
+  "PHDMDB+RyuminPr6-Regular.|(cid:3)": {
+   "char": "1",
+   "votes": 2,
+   "n_occ": 9,
+   "conf": "high"
+  },
+  "PHDMDB+RyuminPr6-Regular.|(cid:4)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "none"
+  },
+  "PHDMDB+RyuminPr6-Regular.|(cid:5)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "none"
+  },
+  "PHDMDB+RyuminPr6-Regular.|(cid:6)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 2,
+   "conf": "none"
+  },
+  "PHDMDB+RyuminPr6-Regular.|(cid:7)": {
+   "char": "5",
+   "votes": 2,
+   "n_occ": 2,
+   "conf": "high"
+  },
+  "PHDMDB+RyuminPr6-Regular.|(cid:8)": {
+   "char": "2",
+   "votes": 2,
+   "n_occ": 6,
+   "conf": "high"
+  },
+  "PHDMCA+RyuminPr6-Regular|(cid:159)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 2,
+   "conf": "none"
+  },
+  "PHDMDB+RyuminPr6-Regular.|(cid:9)": {
+   "char": "(",
+   "votes": 2,
+   "n_occ": 2,
+   "conf": "high"
+  }
+ },
+ "sources/2ji/2016/D.pdf": {
+  "PIICEO+RyuminPr6-Regular.|(cid:2)": {
+   "char": "3",
+   "votes": 2,
+   "n_occ": 8,
+   "conf": "high"
+  },
+  "PIICEO+RyuminPr6-Regular.|(cid:3)": {
+   "char": "1",
+   "votes": 2,
+   "n_occ": 17,
+   "conf": "high"
+  },
+  "PIICEO+RyuminPr6-Regular.|(cid:4)": {
+   "char": "6",
+   "votes": 2,
+   "n_occ": 7,
+   "conf": "high"
+  },
+  "PIICEO+RyuminPr6-Regular.|(cid:5)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "none"
+  },
+  "PIICEO+RyuminPr6-Regular.|(cid:6)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 2,
+   "conf": "none"
+  },
+  "PIICEO+RyuminPr6-Regular.|(cid:7)": {
+   "char": "5",
+   "votes": 2,
+   "n_occ": 4,
+   "conf": "high"
+  },
+  "PIICEO+RyuminPr6-Regular.|(cid:8)": {
+   "char": "2",
+   "votes": 2,
+   "n_occ": 11,
+   "conf": "high"
+  },
+  "PIICEO+RyuminPr6-Regular.|(cid:9)": {
+   "char": "7",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "PIICEO+RyuminPr6-Regular.|(cid:10)": {
+   "char": "8",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "PIICEO+RyuminPr6-Regular.|(cid:11)": {
+   "char": "(",
+   "votes": 2,
+   "n_occ": 11,
+   "conf": "high"
+  }
+ },
+ "sources/2ji/2017/A.pdf": {
+  "JBCMCJ+RyuminPr6-Regular.|(cid:2)": {
+   "char": "3",
+   "votes": 2,
+   "n_occ": 6,
+   "conf": "high"
+  },
+  "JBCMCJ+RyuminPr6-Regular.|(cid:3)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 2,
+   "conf": "none"
+  },
+  "JBCMCJ+RyuminPr6-Regular.|(cid:4)": {
+   "char": "7",
+   "votes": 1,
+   "n_occ": 2,
+   "conf": "low"
+  },
+  "JBCMCJ+RyuminPr6-Regular.|(cid:5)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "none"
+  },
+  "JBCMCJ+RyuminPr6-Regular.|(cid:6)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 2,
+   "conf": "none"
+  },
+  "JBCMCJ+RyuminPr6-Regular.|(cid:7)": {
+   "char": "5",
+   "votes": 2,
+   "n_occ": 3,
+   "conf": "high"
+  },
+  "JBCMCJ+RyuminPr6-Regular.|(cid:8)": {
+   "char": "2",
+   "votes": 2,
+   "n_occ": 3,
+   "conf": "high"
+  },
+  "JBCMCJ+RyuminPr6-Regular.|(cid:9)": {
+   "char": "8",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "JBCMCJ+RyuminPr6-Regular.|(cid:10)": {
+   "char": "9",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  },
+  "JBCMCJ+RyuminPr6-Regular.|(cid:13)": {
+   "char": "6",
+   "votes": 1,
+   "n_occ": 1,
+   "conf": "high"
+  }
+ },
+ "sources/2ji/2017/B.pdf": {
+  "JBJGBO+RyuminPr6-Regular.|(cid:2)": {
+   "char": "3",
+   "votes": 2,
+   "n_occ": 4,
+   "conf": "high"
+  },
+  "JBJGBO+RyuminPr6-Regular.|(cid:3)": {
+   "char": "1",
+   "votes": 2,
+   "n_occ": 6,
+   "conf": "high"
+  },
+  "JBJGBO+RyuminPr6-Regular.|(cid:4)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "none"
+  },
+  "JBJGBO+RyuminPr6-Regular.|(cid:5)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 2,
+   "conf": "none"
+  },
+  "JBJGBO+RyuminPr6-Regular.|(cid:6)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 2,
+   "conf": "none"
+  },
+  "JBJGBO+RyuminPr6-Regular.|(cid:7)": {
+   "char": "5",
+   "votes": 2,
+   "n_occ": 3,
+   "conf": "high"
+  },
+  "JBJGBO+RyuminPr6-Regular.|(cid:8)": {
+   "char": "2",
+   "votes": 2,
+   "n_occ": 5,
+   "conf": "high"
+  },
+  "JBJGBO+RyuminPr6-Regular.|(cid:12)": {
+   "char": "(",
+   "votes": 2,
+   "n_occ": 2,
+   "conf": "high"
+  }
+ },
+ "sources/2ji/2017/C.pdf": {
+  "JBOPAL+RyuminPr6-Regular.|(cid:2)": {
+   "char": "3",
+   "votes": 2,
+   "n_occ": 5,
+   "conf": "high"
+  },
+  "JBOPAL+RyuminPr6-Regular.|(cid:3)": {
+   "char": "1",
+   "votes": 2,
+   "n_occ": 5,
+   "conf": "high"
+  },
+  "JBOPAL+RyuminPr6-Regular.|(cid:4)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "none"
+  },
+  "JBOPAL+RyuminPr6-Regular.|(cid:5)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 1,
+   "conf": "none"
+  },
+  "JBOPAL+RyuminPr6-Regular.|(cid:6)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 2,
+   "conf": "none"
+  },
+  "JBOPAL+RyuminPr6-Regular.|(cid:7)": {
+   "char": "5",
+   "votes": 2,
+   "n_occ": 2,
+   "conf": "high"
+  },
+  "JBOPAL+RyuminPr6-Regular.|(cid:8)": {
+   "char": "2",
+   "votes": 2,
+   "n_occ": 4,
+   "conf": "high"
+  },
+  "JBOOPK+RyuminPr6-Regular|(cid:176)": {
+   "char": null,
+   "votes": 0,
+   "n_occ": 3,
+   "conf": "none"
+  }
+ },
+ "sources/2ji/2017/D.pdf": {
+  "JCHEJH+RyuminPr6-Regular.|(cid:2)": {
+   "char": "3",
+   "votes": 2,
+   "n_occ": 8,
+   "conf": "high"
+  },
+  "JCHEJH+RyuminPr6-Regular.|(cid:3)": {
+   "char": "1",
+   "votes": 1,
+   "n_occ": 13,
+   "conf": "low"
+  },
+  "JCHEJH+RyuminPr6-Regular.|(cid:4)": {
+   "char": "7",
+   "votes": 2,
+   "n_occ": 3,
+   "conf": "high"
+  },
+  "JCHEJH+RyuminPr6-Regular.|(cid:5)": {
+   "char": "0",
+   "votes": 2,
+   "n_occ": 3,
+   "conf": "high"
+  },
+  "JCHEJH+RyuminPr6-Regular.|(cid:6)": {
+   "char": "4",
+   "votes": 1,
+   "n_occ": 4,
+   "conf": "low"
+  },
+  "JCHEJH+RyuminPr6-Regular.|(cid:7)": {
+   "char": "5",
+   "votes": 2,
+   "n_occ": 8,
+   "conf": "high"
+  },
+  "JCHEJH+RyuminPr6-Regular.|(cid:8)": {
+   "char": "2",
+   "votes": 2,
+   "n_occ": 12,
+   "conf": "high"
+  },
+  "JCHEJH+RyuminPr6-Regular.|(cid:9)": {
+   "char": "(",
+   "votes": 2,
+   "n_occ": 3,
+   "conf": "high"
+  }
+ },
+ "sources/2ji/2020/D.pdf": {
+  "HPOPNF+RyuminPr6N-Reg-90msp-RKSJ-H|(cid:9974)": {
+   "char": "⒜",
+   "conf": "manual",
+   "n_occ": 1,
+   "votes": 0
+  },
+  "HPOPNF+RyuminPr6N-Reg-90msp-RKSJ-H|(cid:9975)": {
+   "char": "⒝",
+   "conf": "manual",
+   "n_occ": 1,
+   "votes": 0
+  }
+ }
+}

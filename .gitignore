@@ -1,0 +1,12 @@
+node_modules/
+dist/
+dev-dist/
+# data/ 正本から sync-data で生成
+public/data/
+# 原本PDF (容量・権利のためコミット禁止 — CLAUDE.md)
+sources/
+work/
+figures/
+*.tsbuildinfo
+*.local
+.DS_Store

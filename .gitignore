@@ -7,5 +7,6 @@ public/data/
 sources/
 work/
 figures/
+*.tsbuildinfo
 *.local
 .DS_Store

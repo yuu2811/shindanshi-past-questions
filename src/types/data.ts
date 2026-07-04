@@ -95,15 +95,28 @@ export interface Taxonomy1ji {
   >;
 }
 
-/** 2次事例の設問 */
+/** 2次設問の分割枝 (設問1/設問2)。OCR起因で stem 空のダミー要素や sub 重複がある */
+export interface Setsumon2ji {
+  sub?: number;
+  stem?: string;
+  /** 字数制約 (複数解答欄は複数要素) */
+  char_limits?: number[];
+}
+
+/** 2次事例の設問 (master_2ji.json 実データ準拠) */
 export interface Question2ji {
   q: number;
-  /** 設問枝番 (設問1/設問2)。無い場合 null */
-  sub: number | null;
-  stem: string;
   points: number | null;
-  /** 字数制約 (例: 100)。指定なしは null */
-  chars: number | null;
+  /** 分割なし設問の本文 (setsumon がある場合は無いことがある) */
+  stem?: string;
+  /** 設問群共通のリード文 */
+  lead?: string;
+  /** 字数制約 (分割なし設問用) */
+  char_limits?: number[];
+  /** 設問分割 (設問1/設問2形式) の枝一覧 */
+  setsumon?: Setsumon2ji[];
+  /** 原本PDF内の頁範囲 */
+  pages?: number[];
 }
 
 /** 2次事例 (master_2ji.json cases[] の要素) */
@@ -112,9 +125,10 @@ export interface Case2ji {
   year: number;
   case: string; // "A" | "B" | "C" | "D"
   case_name: string; // 例: "事例I(組織・人事)"
-  jiken: string; // 与件文
+  jiken: string; // 与件文 (冒頭に試験注意事項が混入していることがある)
+  jiken_pages?: number[];
   questions: Question2ji[];
-  source?: SourceInfo;
+  source_pdf?: string;
   [key: string]: unknown;
 }
 

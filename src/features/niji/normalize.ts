@@ -1,35 +1,12 @@
 // master_2ji.json の実データを表示しやすい形へ正規化する。
 //
-// ── 既知の型不整合(重要) ─────────────────────────────────────────
-//   src/types/data.ts の `Question2ji` 型 (sub / chars フィールド) は、実際の
-//   data/master_2ji.json の構造と一致していない。実データは以下の形:
-//     - 分割なし設問: { q, points, stem, char_limits?: number[] }
-//     - 共通リード付き: 上記 + lead?: string
-//     - 設問分割あり : { q, points, lead?, setsumon: { sub, stem, char_limits? }[] }
-//   さらに setsumon には OCR 起因で「設問ラベルのみ・本文が空文字」の
-//   ダミー要素が混入し(44事例中で11件)、しかも sub 番号が重複するケースがある
-//   (例: 2ji-2015-D の設問1で sub:1 が2回出現)。よってラベリングは元データの
-//   sub 値を信用せず、空文字要素を除外した後の出現順で振り直す。
-//   → types/data.ts を実データに合わせて修正することを統合担当に推奨(本タスクでは
-//      types/ 変更禁止のため、ここでは実データ形をローカル型で受けてキャストする)。
+// setsumon には OCR 起因で「設問ラベルのみ・本文が空文字」のダミー要素が混入し
+// (44事例中で11件)、しかも sub 番号が重複するケースがある(例: 2ji-2015-D の
+// 設問1で sub:1 が2回出現)。よってラベリングは元データの sub 値を信用せず、
+// 空文字要素を除外した後の出現順で振り直す。
 //
 // data/ 自体は書き換えない(読み取り専用)。ここは表示用の正規化のみ。
-import type { Case2ji } from "../../types/data";
-
-interface RawSetsumon {
-  sub?: number;
-  stem?: string;
-  char_limits?: number[];
-}
-
-interface RawQuestion2ji {
-  q: number;
-  points: number | null;
-  stem?: string;
-  char_limits?: number[];
-  lead?: string;
-  setsumon?: RawSetsumon[];
-}
+import type { Case2ji, Question2ji, Setsumon2ji } from "../../types/data";
 
 export interface NormalizedSubQuestion {
   /** 表示・下書きキー用の設問番号。分割なしは 0 */
@@ -55,12 +32,12 @@ function sumCharLimits(limits: number[]): number | null {
   return limits.length > 0 ? limits.reduce((a, b) => a + b, 0) : null;
 }
 
-function normalizeOne(raw: RawQuestion2ji): NormalizedQuestion {
+function normalizeOne(raw: Question2ji): NormalizedQuestion {
   const lead = typeof raw.lead === "string" && raw.lead.trim() !== "" ? raw.lead : null;
 
   if (Array.isArray(raw.setsumon) && raw.setsumon.length > 0) {
     const cleaned = raw.setsumon.filter(
-      (s): s is RawSetsumon & { stem: string } =>
+      (s): s is Setsumon2ji & { stem: string } =>
         typeof s.stem === "string" && s.stem.trim() !== "",
     );
     const subQuestions: NormalizedSubQuestion[] = cleaned.map((s, i) => {
@@ -91,11 +68,9 @@ function normalizeOne(raw: RawQuestion2ji): NormalizedQuestion {
   };
 }
 
-/** Case2ji.questions (実データ形) を表示用に正規化する */
+/** Case2ji.questions を表示用に正規化する */
 export function normalizeCaseQuestions(questions: Case2ji["questions"]): NormalizedQuestion[] {
-  // 既知の型不整合(上記コメント)によりここでキャストする。data自体は書き換えない。
-  const raw = questions as unknown as RawQuestion2ji[];
-  return raw.map(normalizeOne);
+  return questions.map(normalizeOne);
 }
 
 /** Draft2ji.key と同じ規約 (`${caseId}#${q}#${sub ?? 0}`) */

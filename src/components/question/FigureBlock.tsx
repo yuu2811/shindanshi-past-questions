@@ -60,7 +60,7 @@ export function FigureBlock({ qid, pages, sourcePdfUrl }: FigureBlockProps) {
           {pageNumbers.map((p) => (
             <FigureImage
               key={p}
-              src={`/figures/${qid}_p${String(p).padStart(2, "0")}.png`}
+              src={`${import.meta.env.BASE_URL}figures/${qid}_p${String(p).padStart(2, "0")}.png`}
               alt={`${qid} ${p}ページ目の図表`}
               onError={() => setBrokenCount((c) => c + 1)}
             />

@@ -3,6 +3,9 @@ import react from "@vitejs/plugin-react";
 import { VitePWA } from "vite-plugin-pwa";
 
 export default defineConfig({
+  // GitHub Pages (https://<user>.github.io/shindanshi-past-questions/) 配下で配信するため
+  // サブパスを base に設定。ローカル dev/preview でも同じパスで動く。
+  base: "/shindanshi-past-questions/",
   plugins: [
     react(),
     VitePWA({

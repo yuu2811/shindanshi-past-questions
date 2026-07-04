@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useState } from "react";
 import { Link } from "react-router-dom";
 import { db } from "../../db/db";
-import { EXAM_DATE_1JI, EXAM_DATE_2JI } from "../../lib/jst";
+import { EXAM_DATE_1JI, EXAM_DATE_2JI, EXAM_DATE_CONFIRMED } from "../../lib/jst";
 import { SUBJECT_CODES, SUBJECT_NAMES, type SubjectCode } from "../../types/data";
 import type { Attempt } from "../../types/study";
 import { CountdownCard } from "../../components/stats/CountdownCard";
@@ -50,8 +50,17 @@ export default function StatsPage() {
       <h1 className="text-lg font-bold">学習統計</h1>
 
       <div className="mt-3 grid grid-cols-2 gap-3">
-        <CountdownCard label="1次試験" examEpochMs={EXAM_DATE_1JI} sublabel="1日目" />
-        <CountdownCard label="2次筆記試験" examEpochMs={EXAM_DATE_2JI} />
+        <CountdownCard
+          label="1次試験"
+          examEpochMs={EXAM_DATE_1JI}
+          sublabel="1日目"
+          confirmed={EXAM_DATE_CONFIRMED}
+        />
+        <CountdownCard
+          label="2次筆記試験"
+          examEpochMs={EXAM_DATE_2JI}
+          confirmed={EXAM_DATE_CONFIRMED}
+        />
       </div>
 
       <Link

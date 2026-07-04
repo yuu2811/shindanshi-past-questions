@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import { CountdownCard } from "../components/stats/CountdownCard";
 import { getDueCount } from "../features/practice/review";
-import { EXAM_DATE_1JI, EXAM_DATE_2JI, jstStartOfDay } from "../lib/jst";
+import { EXAM_DATE_1JI, EXAM_DATE_2JI, EXAM_DATE_CONFIRMED, jstStartOfDay } from "../lib/jst";
 import { db } from "../db/db";
 
 interface HomeSummary {
@@ -52,8 +52,17 @@ export default function HomePage() {
       </header>
 
       <div className="grid grid-cols-2 gap-2">
-        <CountdownCard label="1次試験" examEpochMs={EXAM_DATE_1JI} sublabel="1日目" />
-        <CountdownCard label="2次筆記" examEpochMs={EXAM_DATE_2JI} />
+        <CountdownCard
+          label="1次試験"
+          examEpochMs={EXAM_DATE_1JI}
+          sublabel="1日目"
+          confirmed={EXAM_DATE_CONFIRMED}
+        />
+        <CountdownCard
+          label="2次筆記"
+          examEpochMs={EXAM_DATE_2JI}
+          confirmed={EXAM_DATE_CONFIRMED}
+        />
       </div>
 
       <Link

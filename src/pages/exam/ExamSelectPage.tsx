@@ -1,5 +1,5 @@
 // 模試選択: 科目(A〜G)→年度で試験を選ぶ。中断中セッションがあれば最上部に再開カード。
-import { useEffect, useState } from "react";
+import { useCallback, useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { listExamsBySubject } from "../../data/queries";
 import { db } from "../../db/db";
@@ -67,7 +67,7 @@ function ResumeSection() {
   const [sessions, setSessions] = useState<ExamSession[] | null>(null);
   const [examMap, setExamMap] = useState<Map<string, Exam1ji>>(new Map());
 
-  const reload = () => {
+  const reload = useCallback(() => {
     listInProgressSessions()
       .then(async (list) => {
         const map = new Map<string, Exam1ji>();
@@ -81,12 +81,11 @@ function ResumeSection() {
         setSessions(list);
       })
       .catch(() => setSessions([]));
-  };
+  }, []);
 
   useEffect(() => {
     reload();
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, []);
+  }, [reload]);
 
   if (!sessions || sessions.length === 0) return null;
 

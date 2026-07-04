@@ -1,0 +1,68 @@
+{
+ "2015": {
+  "url": "https://www.jf-cmca.jp/contents/010_c_/010_c_h27_shiken/H27_2ji_shushi.html",
+  "http": "200",
+  "bytes": 12911,
+  "verified": true
+ },
+ "2016": {
+  "url": "https://www.jf-cmca.jp/contents/010_c_/010_c_h28_shiken/H28_2ji_shushi.html",
+  "http": "200",
+  "bytes": 12895,
+  "verified": true
+ },
+ "2017": {
+  "url": "https://www.jf-cmca.jp/contents/010_c_/010_c_h29_shiken/H29_2ji_shushi.html",
+  "http": "200",
+  "bytes": 12915,
+  "verified": true
+ },
+ "2018": {
+  "url": "https://www.jf-cmca.jp/contents/010_c_/010_c_h30_shiken/H30_2ji_shushi.html",
+  "http": "200",
+  "bytes": 12915,
+  "verified": true
+ },
+ "2019": {
+  "url": "https://www.jf-cmca.jp/contents/010_c_/010_c_h31_shiken/R01_2ji_shushi.html",
+  "http": "200",
+  "bytes": 12913,
+  "verified": true
+ },
+ "2020": {
+  "url": "https://www.jf-cmca.jp/contents/010_c_/010_c_r02_shiken/R02_2ji_shushi.html",
+  "http": "200",
+  "bytes": 12893,
+  "verified": true
+ },
+ "2021": {
+  "url": "https://www.jf-cmca.jp/contents/010_c_/010_c_r03_shiken/R03_2ji_shushi.html",
+  "http": "200",
+  "bytes": 12893,
+  "verified": true
+ },
+ "2022": {
+  "url": "https://www.jf-cmca.jp/contents/010_c_/010_c_r04_shiken/R04_2ji_shushi.html",
+  "http": "200",
+  "bytes": 12893,
+  "verified": true
+ },
+ "2023": {
+  "url": "https://www.jf-cmca.jp/contents/010_c_/010_c_r05_shiken/R05_2ji_shushi.html",
+  "http": "200",
+  "bytes": 12887,
+  "verified": true
+ },
+ "2024": {
+  "url": "https://www.jf-cmca.jp/contents/010_c_/010_c_r06_shiken/R06_2ji_shiken_shushi.html",
+  "http": "200",
+  "bytes": 6723,
+  "verified": true
+ },
+ "2025": {
+  "url": "https://www.jf-cmca.jp/contents/010_c_/010_c_r07_shiken/R07_2ji_shiken_shushi.html",
+  "http": "200",
+  "bytes": 6723,
+  "verified": true
+ }
+}

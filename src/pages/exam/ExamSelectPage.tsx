@@ -1,6 +1,6 @@
 // 模試選択: 科目(A〜G)→年度で試験を選ぶ。中断中セッションがあれば最上部に再開カード。
 import { useCallback, useEffect, useState } from "react";
-import { useNavigate } from "react-router-dom";
+import { useNavigate } from "react-router";
 import { listExamsBySubject } from "../../data/queries";
 import { db } from "../../db/db";
 import {
@@ -196,7 +196,7 @@ function ExamListBySubject({ subject }: { subject: SubjectCode }) {
             <p className="font-semibold">
               {yearLabel(exam.year, exam.reexam)}年度
               {exam.reexam && (
-                <span className="ml-2 rounded bg-slate-200 px-1.5 py-0.5 text-[10px] font-bold text-slate-600 dark:bg-slate-700 dark:text-slate-300">
+                <span className="ml-2 rounded-sm bg-slate-200 px-1.5 py-0.5 text-[10px] font-bold text-slate-600 dark:bg-slate-700 dark:text-slate-300">
                   再試験
                 </span>
               )}

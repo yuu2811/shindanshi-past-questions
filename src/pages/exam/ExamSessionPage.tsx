@@ -2,7 +2,7 @@
 // 解答の随時永続化、問題ナビ、時間切れ自動採点、終了→採点→結果画面へ。
 // 採点前に正誤・正解は一切見せない(ExamQuestionView が保証)。
 import { useCallback, useEffect, useRef, useState } from "react";
-import { useNavigate, useParams, Link } from "react-router-dom";
+import { useNavigate, useParams, Link } from "react-router";
 import { getQuestionsForExam } from "../../data/queries";
 import { isScorable } from "../../lib/scoring";
 import {
@@ -199,7 +199,7 @@ export default function ExamSessionPage() {
   return (
     <div className="flex flex-col">
       {/* ヘッダ: タイマー + ナビ切替 */}
-      <div className="sticky top-0 z-30 flex items-center justify-between gap-2 border-b border-slate-200 bg-white/95 px-4 py-2 backdrop-blur dark:border-slate-800 dark:bg-slate-900/95">
+      <div className="sticky top-0 z-30 flex items-center justify-between gap-2 border-b border-slate-200 bg-white/95 px-4 py-2 backdrop-blur-sm dark:border-slate-800 dark:bg-slate-900/95">
         <span className="text-sm font-semibold text-slate-500 dark:text-slate-400">
           第{current ? current.q : "-"}問 <span className="text-slate-400">/ {questions.length}問</span>
         </span>

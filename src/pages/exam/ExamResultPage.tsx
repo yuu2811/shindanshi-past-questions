@@ -1,7 +1,7 @@
 // 模試結果: 得点/満点・正答率・合否判定(60%合格/40%足切り)を明示。
 // 全員正解・採点対象外の注記、問題別正誤一覧(タップで正解と自分の解答を展開)。
 import { useEffect, useMemo, useState } from "react";
-import { useNavigate, useParams, Link } from "react-router-dom";
+import { useNavigate, useParams, Link } from "react-router";
 import { getQuestionsForExam } from "../../data/queries";
 import { isCorrect, isScorable } from "../../lib/scoring";
 import { getExamSession, createExamSessionByExamId } from "../../features/exam/session";
@@ -247,7 +247,7 @@ function ResultRow({ row }: { row: Row }) {
               {question.lead}
             </p>
           )}
-          <p className="mb-3 whitespace-pre-wrap break-words text-sm text-slate-700 dark:text-slate-200">
+          <p className="mb-3 whitespace-pre-wrap wrap-break-word text-sm text-slate-700 dark:text-slate-200">
             {item.stem}
           </p>
           <div className="flex flex-col gap-1.5">
@@ -268,7 +268,7 @@ function ResultRow({ row }: { row: Row }) {
                   className={`flex items-start gap-2 rounded-lg border px-3 py-2 text-sm ${cls}`}
                 >
                   <span className="font-bold">{key}</span>
-                  <span className="whitespace-pre-wrap break-words">{text}</span>
+                  <span className="whitespace-pre-wrap wrap-break-word">{text}</span>
                   <span className="ml-auto flex-none text-xs font-bold">
                     {isAnswer ? "正解" : isSelected ? "あなた" : ""}
                   </span>

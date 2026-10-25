@@ -1,6 +1,53 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
+
+@theme {
+  --spacing-safe-top: env(safe-area-inset-top);
+  --spacing-safe-bottom: env(safe-area-inset-bottom);
+
+  /* 行送りは Tailwind 3 と同じ rem の固定値にする。v4 の既定は文字の大きさに対する比で、
+     子に継がれると、大きさの違う文字を混ぜた行や leading を付けない段落の高さが変わる */
+  --text-xs--line-height: 1rem;
+  --text-sm--line-height: 1.25rem;
+  --text-base--line-height: 1.5rem;
+  --text-lg--line-height: 1.75rem;
+  --text-xl--line-height: 1.75rem;
+  --text-2xl--line-height: 2rem;
+  --text-3xl--line-height: 2.25rem;
+  --text-4xl--line-height: 2.5rem;
+
+  /* 使っている色の系統は Tailwind 3 の値（16 進）に固定する。v4 の既定のパレットは
+     oklch で定義し直されていて、同じ名前でも色が少しずつ違う（画面全体の色味が変わる）。
+     16 進なら oklch を解釈できない古いブラウザでも色が付く。値は tailwindcss@3.4.19 の
+     lib/public/colors.js から写した */
+  --color-slate-50: #f8fafc; --color-slate-100: #f1f5f9; --color-slate-200: #e2e8f0; --color-slate-300: #cbd5e1; --color-slate-400: #94a3b8; --color-slate-500: #64748b; --color-slate-600: #475569; --color-slate-700: #334155; --color-slate-800: #1e293b; --color-slate-900: #0f172a; --color-slate-950: #020617;
+  --color-red-50: #fef2f2; --color-red-100: #fee2e2; --color-red-200: #fecaca; --color-red-300: #fca5a5; --color-red-400: #f87171; --color-red-500: #ef4444; --color-red-600: #dc2626; --color-red-700: #b91c1c; --color-red-800: #991b1b; --color-red-900: #7f1d1d; --color-red-950: #450a0a;
+  --color-orange-50: #fff7ed; --color-orange-100: #ffedd5; --color-orange-200: #fed7aa; --color-orange-300: #fdba74; --color-orange-400: #fb923c; --color-orange-500: #f97316; --color-orange-600: #ea580c; --color-orange-700: #c2410c; --color-orange-800: #9a3412; --color-orange-900: #7c2d12; --color-orange-950: #431407;
+  --color-amber-50: #fffbeb; --color-amber-100: #fef3c7; --color-amber-200: #fde68a; --color-amber-300: #fcd34d; --color-amber-400: #fbbf24; --color-amber-500: #f59e0b; --color-amber-600: #d97706; --color-amber-700: #b45309; --color-amber-800: #92400e; --color-amber-900: #78350f; --color-amber-950: #451a03;
+  --color-yellow-50: #fefce8; --color-yellow-100: #fef9c3; --color-yellow-200: #fef08a; --color-yellow-300: #fde047; --color-yellow-400: #facc15; --color-yellow-500: #eab308; --color-yellow-600: #ca8a04; --color-yellow-700: #a16207; --color-yellow-800: #854d0e; --color-yellow-900: #713f12; --color-yellow-950: #422006;
+  --color-emerald-50: #ecfdf5; --color-emerald-100: #d1fae5; --color-emerald-200: #a7f3d0; --color-emerald-300: #6ee7b7; --color-emerald-400: #34d399; --color-emerald-500: #10b981; --color-emerald-600: #059669; --color-emerald-700: #047857; --color-emerald-800: #065f46; --color-emerald-900: #064e3b; --color-emerald-950: #022c22;
+  --color-blue-50: #eff6ff; --color-blue-100: #dbeafe; --color-blue-200: #bfdbfe; --color-blue-300: #93c5fd; --color-blue-400: #60a5fa; --color-blue-500: #3b82f6; --color-blue-600: #2563eb; --color-blue-700: #1d4ed8; --color-blue-800: #1e40af; --color-blue-900: #1e3a8a; --color-blue-950: #172554;
+  --color-indigo-50: #eef2ff; --color-indigo-100: #e0e7ff; --color-indigo-200: #c7d2fe; --color-indigo-300: #a5b4fc; --color-indigo-400: #818cf8; --color-indigo-500: #6366f1; --color-indigo-600: #4f46e5; --color-indigo-700: #4338ca; --color-indigo-800: #3730a3; --color-indigo-900: #312e81; --color-indigo-950: #1e1b4b;
+  --color-rose-50: #fff1f2; --color-rose-100: #ffe4e6; --color-rose-200: #fecdd3; --color-rose-300: #fda4af; --color-rose-400: #fb7185; --color-rose-500: #f43f5e; --color-rose-600: #e11d48; --color-rose-700: #be123c; --color-rose-800: #9f1239; --color-rose-900: #881337; --color-rose-950: #4c0519;
+}
+
+/* Tailwind 3 の既定の見た目を保つ（v4 で既定が変わったもの）。
+   - 枠線の色: v4 は currentcolor。色を書かずに border を付けた要素がこれに頼る（v3 の gray-200 を
+     16 進で書く。v4 の gray-200 は oklch で、oklch を解釈できないブラウザでは枠線が文字色になる）
+   - 入力欄の placeholder: v4 は文字色の 50%。v3 は gray-400（#9ca3af） */
+@layer base {
+  *,
+  ::after,
+  ::before,
+  ::backdrop,
+  ::file-selector-button {
+    border-color: #e5e7eb;
+  }
+  input::placeholder,
+  textarea::placeholder {
+    opacity: 1;
+    color: #9ca3af;
+  }
+}
 
 :root {
   color-scheme: light dark;

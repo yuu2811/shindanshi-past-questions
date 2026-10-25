@@ -26,7 +26,7 @@ export function DraftEditor({ caseId, q, sub, totalChars }: DraftEditorProps) {
         onChange={(e) => setText(e.target.value)}
         placeholder={loaded ? "答案の下書きを入力…" : "読み込み中…"}
         rows={6}
-        className="w-full resize-y rounded-xl border-2 border-slate-300 bg-white p-3 text-[15px] leading-relaxed text-slate-900 placeholder:text-slate-400 focus:border-blue-500 focus:outline-none dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100 dark:placeholder:text-slate-500 dark:focus:border-blue-500"
+        className="w-full resize-y rounded-xl border-2 border-slate-300 bg-white p-3 text-[15px] leading-relaxed text-slate-900 placeholder:text-slate-400 focus:border-blue-500 focus:outline-hidden dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100 dark:placeholder:text-slate-500 dark:focus:border-blue-500"
       />
       <div className="flex items-center justify-between text-xs">
         <span className={overLimit ? "font-bold text-rose-600 dark:text-rose-400" : "text-slate-500 dark:text-slate-400"}>

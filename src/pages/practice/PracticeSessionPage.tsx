@@ -4,7 +4,7 @@
 //   ?review=1            今日の復習キュー(db.srs の期日到来アイテム)
 // 1問(1設問)ずつ表示 → 選択肢タップで解答 → 即時正誤+自己評価4段階 → 次の問題。
 import { useEffect, useMemo, useState } from "react";
-import { useSearchParams, Link } from "react-router-dom";
+import { useSearchParams, Link } from "react-router";
 import { QuestionCard } from "../../components/question/QuestionCard";
 import { SelfRatingBar } from "../../components/question/SelfRatingBar";
 import { buildQueueForExam, buildQueueForTag, type QueueItem } from "../../features/practice/queue";

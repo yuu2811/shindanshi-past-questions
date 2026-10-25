@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { Link } from "react-router-dom";
+import { Link } from "react-router";
 import { CountdownCard } from "../components/stats/CountdownCard";
 import { getDueCount } from "../features/practice/review";
 import { EXAM_DATE_1JI, EXAM_DATE_2JI, EXAM_DATE_CONFIRMED, jstStartOfDay } from "../lib/jst";
@@ -67,7 +67,7 @@ export default function HomePage() {
 
       <Link
         to="/review"
-        className="flex items-center justify-between rounded-2xl bg-blue-600 p-4 text-white shadow-sm active:opacity-80"
+        className="flex items-center justify-between rounded-2xl bg-blue-600 p-4 text-white shadow-xs active:opacity-80"
       >
         <div>
           <p className="text-sm font-bold">今日の復習</p>

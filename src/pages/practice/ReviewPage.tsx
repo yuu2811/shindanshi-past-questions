@@ -1,6 +1,6 @@
 // 今日の復習: SM-2 で期日到来した設問の件数を表示し、演習セッション(?review=1)へ導く。
 import { useEffect, useState } from "react";
-import { Link } from "react-router-dom";
+import { Link } from "react-router";
 import { getDueCount } from "../../features/practice/review";
 
 export default function ReviewPage() {

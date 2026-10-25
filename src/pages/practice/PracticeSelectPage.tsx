@@ -1,6 +1,6 @@
 // 演習: 出題選択。科目(A〜G)を選び、「年度別」または「論点タグ別」で問題群を選ぶ。
 import { useEffect, useState } from "react";
-import { useNavigate } from "react-router-dom";
+import { useNavigate } from "react-router";
 import { getTagCountsForSubject } from "../../features/practice/tagCounts";
 import { listExamsBySubject } from "../../data/queries";
 import { fetchTaxonomy } from "../../data/loader";
@@ -37,7 +37,7 @@ export default function PracticeSelectPage() {
             onClick={() => setMode(m.key)}
             className={`rounded-lg py-2 text-sm font-semibold transition-colors ${
               mode === m.key
-                ? "bg-white text-slate-900 shadow dark:bg-slate-950 dark:text-white"
+                ? "bg-white text-slate-900 shadow-sm dark:bg-slate-950 dark:text-white"
                 : "text-slate-500 dark:text-slate-400"
             }`}
           >

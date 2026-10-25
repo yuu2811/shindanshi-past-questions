@@ -54,7 +54,7 @@ export function QuestionCard({
         </p>
       )}
 
-      <p className="whitespace-pre-wrap break-words text-[15px] leading-relaxed">{item.stem}</p>
+      <p className="whitespace-pre-wrap wrap-break-word text-[15px] leading-relaxed">{item.stem}</p>
 
       {question.figure.flag && (
         <FigureBlock qid={question.id} pages={question.pages} sourcePdfUrl={sourcePdfUrl} />

@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useState } from "react";
-import { Link } from "react-router-dom";
+import { Link } from "react-router";
 import { db } from "../../db/db";
 import { EXAM_DATE_1JI, EXAM_DATE_2JI, EXAM_DATE_CONFIRMED } from "../../lib/jst";
 import { SUBJECT_CODES, SUBJECT_NAMES, type SubjectCode } from "../../types/data";

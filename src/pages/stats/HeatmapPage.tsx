@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useState } from "react";
-import { useNavigate } from "react-router-dom";
+import { useNavigate } from "react-router";
 import { db } from "../../db/db";
 import { fetchTaxonomy } from "../../data/loader";
 import { SUBJECT_CODES, SUBJECT_NAMES, type Taxonomy1ji } from "../../types/data";
@@ -73,7 +73,7 @@ export default function HeatmapPage() {
           const unclassified = aggMap.get(tagKey(code, UNCLASSIFIED_TAG));
           return (
             <section key={code}>
-              <h2 className="sticky top-0 z-10 -mx-4 bg-slate-100/95 px-4 py-1 text-xs font-bold text-slate-600 backdrop-blur dark:bg-slate-950/95 dark:text-slate-300">
+              <h2 className="sticky top-0 z-10 -mx-4 bg-slate-100/95 px-4 py-1 text-xs font-bold text-slate-600 backdrop-blur-sm dark:bg-slate-950/95 dark:text-slate-300">
                 {code}. {SUBJECT_NAMES[code]}
               </h2>
               <div className="mt-1 divide-y divide-slate-200/70 dark:divide-slate-800">

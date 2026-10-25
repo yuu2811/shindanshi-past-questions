@@ -1,6 +1,6 @@
 // 2次事例一覧: 年度降順 × 事例I〜IV。タップで /niji/:caseId へ。
 import { useEffect, useState } from "react";
-import { Link } from "react-router-dom";
+import { Link } from "react-router";
 import { db } from "../../db/db";
 import type { Case2ji } from "../../types/data";
 
@@ -78,7 +78,7 @@ export default function NijiListPage() {
                 <Link
                   key={c.id}
                   to={`/niji/${c.id}`}
-                  className="rounded-xl border border-slate-200 bg-white px-3 py-3 text-sm font-semibold text-slate-800 shadow-sm active:bg-slate-50 dark:border-slate-800 dark:bg-slate-900 dark:text-slate-100 dark:active:bg-slate-800"
+                  className="rounded-xl border border-slate-200 bg-white px-3 py-3 text-sm font-semibold text-slate-800 shadow-xs active:bg-slate-50 dark:border-slate-800 dark:bg-slate-900 dark:text-slate-100 dark:active:bg-slate-800"
                 >
                   {c.case_name}
                 </Link>

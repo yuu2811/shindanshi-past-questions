@@ -51,7 +51,7 @@ function ExamChoiceList({
             >
               {key}
             </span>
-            <span className="whitespace-pre-wrap break-words">{text}</span>
+            <span className="whitespace-pre-wrap wrap-break-word">{text}</span>
           </button>
         );
       })}
@@ -100,7 +100,7 @@ export function ExamQuestionView({ question, answers, onSelect }: ExamQuestionVi
                 設問{item.sub ?? ""}
               </p>
             )}
-            <p className="whitespace-pre-wrap break-words text-[15px] leading-relaxed">
+            <p className="whitespace-pre-wrap wrap-break-word text-[15px] leading-relaxed">
               {item.stem}
             </p>
             {itemHasGlyph(question, item) && <GlyphNotice sourcePdfUrl={sourcePdfUrl} />}

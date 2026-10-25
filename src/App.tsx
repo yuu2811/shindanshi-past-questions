@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
-import { createHashRouter, RouterProvider } from "react-router-dom";
+import { createHashRouter } from "react-router";
+import { RouterProvider } from "react-router/dom";
 import { ensureDataLoaded } from "./data/loader";
 import { AppShell } from "./components/layout/AppShell";
 import HomePage from "./pages/HomePage";

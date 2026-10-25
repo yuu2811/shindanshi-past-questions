@@ -2,7 +2,7 @@
 // 検索処理は Web Worker (search.worker.ts) で行い、UIスレッドを塞がない。
 // 過去問本文はすべて端末内で処理し、外部へは一切送信しない。
 import { useRef, useState } from "react";
-import { Link } from "react-router-dom";
+import { Link } from "react-router";
 import { db } from "../../db/db";
 import type { Question1ji } from "../../types/data";
 import { itemKey } from "../../types/study";
@@ -12,9 +12,9 @@ import type { SearchHit } from "../../workers/search.types";
 
 function Snippet({ hit }: { hit: SearchHit }) {
   return (
-    <p className="whitespace-pre-wrap break-words text-sm text-slate-600 dark:text-slate-400">
+    <p className="whitespace-pre-wrap wrap-break-word text-sm text-slate-600 dark:text-slate-400">
       {hit.before}
-      <mark className="rounded bg-yellow-200 px-0.5 text-slate-900 dark:bg-yellow-500/40 dark:text-slate-100">
+      <mark className="rounded-sm bg-yellow-200 px-0.5 text-slate-900 dark:bg-yellow-500/40 dark:text-slate-100">
         {hit.match}
       </mark>
       {hit.after}
@@ -130,7 +130,7 @@ export default function SearchPage() {
         onChange={(e) => setQuery(e.target.value)}
         placeholder="キーワードを入力(問題文・与件文・タグなど)"
         autoComplete="off"
-        className="w-full rounded-xl border-2 border-slate-300 bg-white px-4 py-3 text-[15px] text-slate-900 placeholder:text-slate-400 focus:border-blue-500 focus:outline-none dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100 dark:placeholder:text-slate-500"
+        className="w-full rounded-xl border-2 border-slate-300 bg-white px-4 py-3 text-[15px] text-slate-900 placeholder:text-slate-400 focus:border-blue-500 focus:outline-hidden dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100 dark:placeholder:text-slate-500"
       />
 
       {status === "loading" && (

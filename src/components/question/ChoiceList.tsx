@@ -69,7 +69,7 @@ export function ChoiceList({
             >
               {key}
             </span>
-            <span className="whitespace-pre-wrap break-words">{text}</span>
+            <span className="whitespace-pre-wrap wrap-break-word">{text}</span>
             {answered && isAnswer && (
               <span className="ml-auto flex-none text-xs font-bold text-emerald-600 dark:text-emerald-400">
                 正解

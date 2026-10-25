@@ -1,7 +1,7 @@
 // 2次学習ビュー: 与件文/設問の対面表示(モバイルはタブ切替)。
 // 答案下書きは端末内(IndexedDB)にのみ自動保存し、外部送信は行わない。
 import { useEffect, useMemo, useRef, useState } from "react";
-import { Link, useParams, useSearchParams } from "react-router-dom";
+import { Link, useParams, useSearchParams } from "react-router";
 import { db } from "../../db/db";
 import { ATTRIBUTION } from "../../types/data";
 import type { Case2ji, SourcesShushi } from "../../types/data";
@@ -63,7 +63,7 @@ function QuestionGroup({
           {sub.label && (
             <p className="text-sm font-bold text-slate-600 dark:text-slate-300">{sub.label}</p>
           )}
-          <p className="whitespace-pre-wrap break-words text-[15px] leading-relaxed">
+          <p className="whitespace-pre-wrap wrap-break-word text-[15px] leading-relaxed">
             {sub.stem}
           </p>
           {sub.charLimits.length > 0 && (
@@ -209,7 +209,7 @@ export default function NijiCasePage() {
           onClick={() => setTab("jiken")}
           className={`rounded-lg py-2 text-sm font-bold transition-colors ${
             tab === "jiken"
-              ? "bg-white text-slate-900 shadow-sm dark:bg-slate-900 dark:text-white"
+              ? "bg-white text-slate-900 shadow-xs dark:bg-slate-900 dark:text-white"
               : "text-slate-500 dark:text-slate-400"
           }`}
         >
@@ -220,7 +220,7 @@ export default function NijiCasePage() {
           onClick={() => setTab("questions")}
           className={`rounded-lg py-2 text-sm font-bold transition-colors ${
             tab === "questions"
-              ? "bg-white text-slate-900 shadow-sm dark:bg-slate-900 dark:text-white"
+              ? "bg-white text-slate-900 shadow-xs dark:bg-slate-900 dark:text-white"
               : "text-slate-500 dark:text-slate-400"
           }`}
         >
@@ -242,7 +242,7 @@ export default function NijiCasePage() {
                 {noticeOpen ? "▼ 試験の注意事項を隠す" : "▶ 試験の注意事項(タップで表示)"}
               </button>
               {noticeOpen && (
-                <p className="whitespace-pre-wrap break-words border-t border-slate-200 px-3 py-2 text-xs leading-relaxed text-slate-500 dark:border-slate-700 dark:text-slate-400">
+                <p className="whitespace-pre-wrap wrap-break-word border-t border-slate-200 px-3 py-2 text-xs leading-relaxed text-slate-500 dark:border-slate-700 dark:text-slate-400">
                   {noticeText}
                 </p>
               )}
@@ -253,7 +253,7 @@ export default function NijiCasePage() {
             </p>
           )}
 
-          <p className="whitespace-pre-wrap break-words text-[15.5px] leading-[1.9] text-slate-800 dark:text-slate-100">
+          <p className="whitespace-pre-wrap wrap-break-word text-[15.5px] leading-[1.9] text-slate-800 dark:text-slate-100">
             {bodyText}
           </p>
 
